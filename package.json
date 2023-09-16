@@ -9,7 +9,7 @@
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://juliodonadello.github.io/JD'",
     "predeploy": "npm run build-gh",
-    "deploy": "main -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
