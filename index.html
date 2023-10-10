@@ -6,13 +6,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JD</title>
     <link rel="stylesheet" href="styles.css" />
-    
   </head>
-  <body>
+  <body>    
     <noscript>You need to enable Javascript to run this application.</noscript>
     <div id="app">
-      <!-- Your react app will be rendered here -->
+      <div id="main">
+         <div style="position: fixed; display: flex; justify-content: center; gap: 2rem; background: rgba(255, 255, 255, 0.75); padding: 1rem; top: 0px; width: 100%; z-index: 10;"><a href="#home">Home</a><a href="#about">About</a><a href="#portfolio">Portfolio</a><a href="#footer">Contact</a></div>
+         <section id="home" class="min-height">
+            <img class="background" src="https://juliodonadello.github.io/portfolio/surf.1dfef0b7.jpg" alt="">
+            <div style="position: absolute; top: 5rem; left: 2rem; width: 17rem;">
+               <h1>Julio Donadello</h1>
+               <h2>Electronics Data Scientist</h2>
+            </div>
+            <div style="position: absolute; bottom: 3rem; left: 50%;"><img src="https://juliodonadello.github.io/portfolio/down-arrow.8b6aeb0f.svg" alt="Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen" style="height: 3rem; width: 3rem;"></div>
+         </section>
+         <section class="padding" id="about">
+            <img class="background" src="https://juliodonadello.github.io/portfolio/motion-background.6277a59a.jpg" alt="purple and blue abstract background">
+            <div style="background-color: white; width: 50%; padding: 4rem; margin: 3rem auto; text-align: center;">
+               <h2>About Myself</h2>
+               <p class="large">I'm a Data Scientist &amp; Electronic Engineer with orientation in systems integrations. I enjoy creating unique and simplistic data driven solutions in efficent and creative ways.</p>
+               <hr>
+               <ul style="text-align: left; columns: 2; font-size: 1.25rem; margin: 2rem 3rem; gap: 3rem;">
+                  <li>MLOps</li>
+                  <li>Data Analysis</li>
+                  <li>Machile Learning</li>
+                  <li>Data Modeling</li>
+                  <li>Dashboard Design</li>
+                  <li>Innovation</li>
+               </ul>
+               <hr>
+               <p style="padding: 1rem 3rem 0px;">I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Data Science experience and Electronic background, I continually look for new and better ways to make tech accessible by all.</p>
+            </div>
+         </section>
+         <section class="padding" id="portfolio">
+            <h2 style="text-align: center;">Portfolio</h2>
+            <div style="display: flex; flex-direction: row; padding-top: 3rem;">
+               <div style="max-width: 40%; align-self: center;"><img src="https://juliodonadello.github.io/portfolio/design-desk.4e655d74.jpeg" alt="desktop with books and laptop" style="height: 90%; width: 100%; object-fit: cover;"></div>
+               <div class="container">
+                  <div class="box">
+                     <a href="https://deepnote.com/workspace/julio-b8e1-f3f3a815-0155-49ae-8b20-56ea09c967ed/project/Mareas-489a9fca-268e-4600-816f-adda708f4f03" target="_blank" rel="noopener noreferrer">
+                        <h3 style="flex-basis: 40px;">Environmental Time Series Analysis 🌊</h3>
+                     </a>
+                     <p class="small">A time series analysis of the tides in the city of Mar del Plata, Argentina looking for patterns and trends.</p>
+                  </div>
+                  <div class="box">
+                     <a href="https://github.com/Juliodonadello/Horus" target="_blank" rel="noopener noreferrer">
+                        <h3 style="flex-basis: 40px;">System Integration</h3>
+                     </a>
+                     <p class="small">This project was about a system made up of hardware and software developments. Below I attach the main repository with the central monitoring system.</p>
+                  </div>
+                  <div class="box">
+                     <a href="https://deepnote.com/workspace/julio-b8e1-f3f3a815-0155-49ae-8b20-56ea09c967ed/project/SortingAnalysis-aafa31d1-8748-4621-bef4-f6233f14effc/notebook/Notebook%201-5109bd0ff824403fb20c04de43721bee" target="_blank" rel="noopener noreferrer">
+                        <h3 style="flex-basis: 40px;">Sorting Algorithms</h3>
+                     </a>
+                     <p class="small">A little comparison showing how complexity scale in terms of computing time for different sorting algorithms.</p>
+                  </div>
+                  <div class="box">
+                     <a href="https://jad-0j79.onrender.com" target="_blank" rel="noopener noreferrer">
+                        <h3 style="flex-basis: 40px;">Django blog</h3>
+                     </a>
+                     <p class="small">There are many website templates available on Github, however, I didn't find one that really suits my needs so I created one.</p>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <div id="footer" style="display: flex; flex-direction: column; align-items: center; gap: 2.5rem; padding: 5rem 0px 3rem; background-color: rgb(78, 86, 126); width: 100vw;">
+            <div style="display: flex; justify-content: center; gap: 2.5rem;"><a href="mailto:juliodonadello@gmail.com"><img src="https://juliodonadello.github.io/portfolio/envelope.218572ce.svg" alt="email" class="socialIcon"></a><a href="https://github.com/juliodonadello" target="_blank" rel="noopener noreferrer"><img src="https://juliodonadello.github.io/portfolio/github.a2abf599.svg" alt="GitHub" class="socialIcon"></a><a href="https://www.instagram.com/juliodonadello" target="_blank" rel="noopener noreferrer"><img src="https://juliodonadello.github.io/portfolio/instagram.834d60d8.svg" alt="Instagram" class="socialIcon"></a><a href="https://www.linkedin.com/in/julio-donadello" target="_blank" rel="noopener noreferrer"><img src="https://juliodonadello.github.io/portfolio/linkedin.b0d336c3.svg" alt="LinkedIn" class="socialIcon"></a></div>
+            <p class="small" style="margin-top: 0px; color: white;">Created by Julio Donadello</p>
+         </div>
+      </div>
     </div>
-    <script type="module" src="index.js"></script>
+    <!--<script type="module" src="index.js"></script> -->
   </body>
 </html>

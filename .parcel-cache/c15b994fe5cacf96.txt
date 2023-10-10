@@ -1,9 +1,9 @@
-15993
+16171
 52C:\Users\jjj\repos\JD\node_modules\@msgpackr-extract133393668708488530 1
 45C:\Users\jjj\repos\JD\node_modules\@parcel\fs133393668166978317 1
 47C:\Users\jjj\repos\JD\node_modules\svgo\LICENSE133393667935896776 0
 73C:\Users\jjj\repos\JD\node_modules\lower-case\dist.es2015\index.spec.d.ts133393668125815428 0
-32C:\Users\jjj\repos\JD\.gitignore133393668640224378 0
+32C:\Users\jjj\repos\JD\.gitignore133393683794905213 0
 84C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\lib\util\getElementType.js133393668302924724 0
 109C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertEllipseToCircle.js133393668170623061 0
 50C:\Users\jjj\repos\JD\node_modules\@aashutoshrathi133393667872349525 1
@@ -30,7 +30,7 @@
 57C:\Users\jjj\repos\JD\node_modules\lodash\fp\dropWhile.js133393668545624275 0
 72C:\Users\jjj\repos\JD\node_modules\abortcontroller-polyfill\src\utils.js133393668125715469 0
 51C:\Users\jjj\repos\JD\node_modules\parcel\README.md133393668106934164 0
-26C:\Users\jjj\repos\JD\dist133393669836289618 1
+26C:\Users\jjj\repos\JD\dist133414168368596615 1
 42C:\Users\jjj\repos\JD\node_modules\no-case133393668113715740 1
 54C:\Users\jjj\repos\JD\node_modules\lodash\mergeWith.js133393668612249291 0
 79C:\Users\jjj\repos\JD\node_modules\webpack\lib\sharing\resolveMatchedConfigs.js133393668584396062 0
@@ -51,7 +51,7 @@
 88C:\Users\jjj\repos\JD\node_modules\language-subtag-registry\data\json\grandfathered.json133393667978483730 0
 79C:\Users\jjj\repos\JD\node_modules\webpack\lib\serialization\ArraySerializer.js133393668223548987 0
 55C:\Users\jjj\repos\JD\node_modules\pkg-dir\node_modules133393667873046934 1
-34C:\Users\jjj\repos\JD\node_modules133393668710439217 1
+34C:\Users\jjj\repos\JD\node_modules133393680349857191 1
 59C:\Users\jjj\repos\JD\node_modules\locate-path\package.json133393667972130683 0
 90C:\Users\jjj\repos\JD\node_modules\webpack\lib\dependencies\WebpackIsIncludedDependency.js133393668621417194 0
 68C:\Users\jjj\repos\JD\node_modules\internal-slot\.github\FUNDING.yml133393668115074118 0
@@ -76,7 +76,7 @@
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\AS.js133393668253644682 0
 58C:\Users\jjj\repos\JD\node_modules\neo-async\someSeries.js133393668355294569 0
 55C:\Users\jjj\repos\JD\node_modules\html-minifier-terser133393668108481680 1
-32C:\Users\jjj\repos\JD\index.html133392832500337474 0
+32C:\Users\jjj\repos\JD\index.html133414168351137040 0
 84C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\css-select\lib\pseudo-selectors133393668349966915 1
 72C:\Users\jjj\repos\JD\node_modules\lmdb\dependencies\lz4\lib\dll\example133393668448242108 1
 64C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\src\propName.js133393668342901489 0
@@ -111,6 +111,7 @@
 51C:\Users\jjj\repos\JD\node_modules\webpack\lib\json133393668537800957 1
 70C:\Users\jjj\repos\JD\node_modules\string.prototype.matchall\README.md133393668163738339 0
 64C:\Users\jjj\repos\JD\node_modules\which-collection\package.json133393668002023376 0
+114C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\update.sample133393680356405738 0
 80C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_class_private_method_set.js133393668384117392 0
 40C:\Users\jjj\repos\JD\node_modules\async133393668395285777 1
 70C:\Users\jjj\repos\JD\node_modules\@nodelib\fs.stat\out\types\index.js133393668051245185 0
@@ -120,7 +121,7 @@
 62C:\Users\jjj\repos\JD\node_modules\ajv\lib\dot\_limitItems.jst133393668336418327 0
 67C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\optimize133393668626254510 1
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\SameValueZero.js133393668666077487 0
-39C:\Users\jjj\repos\JD\package-lock.json133393668709979228 0
+39C:\Users\jjj\repos\JD\package-lock.json133414164143811579 0
 88C:\Users\jjj\repos\JD\node_modules\webpack\lib\dependencies\HarmonyExportInitFragment.js133393668512078442 0
 42C:\Users\jjj\repos\JD\node_modules\globals133393668052354798 1
 83C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\lib\rules\no-autofocus.js133393668405319450 0
@@ -134,8 +135,9 @@
 68C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_ts_metadata.mjs133393668548712778 0
 90C:\Users\jjj\repos\JD\node_modules\webpack\lib\dependencies\CommonJsImportsParserPlugin.js133393668367866081 0
 58C:\Users\jjj\repos\JD\node_modules\asynciterator.prototype133393668076214924 1
-34C:\Users\jjj\repos\JD\package.json133393669728601864 0
+34C:\Users\jjj\repos\JD\package.json133414160738151542 0
 73C:\Users\jjj\repos\JD\node_modules\svgo\plugins\addClassesToSVGElement.js133393668076228563 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e8133393680401192867 1
 94C:\Users\jjj\repos\JD\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133393668151131499 0
 55C:\Users\jjj\repos\JD\node_modules\pkg-dir\package.json133393667939970172 0
 69C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\HasOwnProperty.js133393668582571985 0
@@ -181,6 +183,14 @@
 97C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\simplify.js133393668281180083 0
 70C:\Users\jjj\repos\JD\node_modules\uri-js\dist\esnext\schemes\urn.d.ts133393668293428161 0
 39C:\Users\jjj\repos\JD\node_modules\.bin133393668701244003 1
+60C:\Users\jjj\repos\JD\node_modules\side-channel\CHANGELOG.md133393668076228563 0
+57C:\Users\jjj\repos\JD\node_modules\concat-map\test\map.js133393668054417473 0
+66C:\Users\jjj\repos\JD\node_modules\which-builtin-type\package.json133393668015473750 0
+41C:\Users\jjj\repos\JD\node_modules\.cache133393680349867198 1
+62C:\Users\jjj\repos\JD\node_modules\pascal-case\dist\index.d.ts133393668122734057 0
+65C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\DaysInYear.js133393668528577702 0
+44C:\Users\jjj\repos\JD\node_modules\path-type133393667996302725 1
+61C:\Users\jjj\repos\JD\node_modules\htmlparser2\lib\index.d.ts133393668151703806 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\differenceBy.js133393668542416567 0
 53C:\Users\jjj\repos\JD\node_modules\.package-lock.json133393668710469215 0
 88C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\NewExpression.js133393668336553905 0
@@ -272,25 +282,6 @@
 79C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\entities\lib\encode.js.map133393668283179913 0
 55C:\Users\jjj\repos\JD\node_modules\array.prototype.flat133393668158138985 1
 94C:\Users\jjj\repos\JD\node_modules\webpack\lib\dependencies\CommonJsExportRequireDependency.js133393668353647878 0
-52C:\Users\jjj\repos\JD\node_modules\async\asyncify.js133393668159722028 0
-51C:\Users\jjj\repos\JD\node_modules\lodash\random.js133393668624957473 0
-66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\KW.js133393668577332026 0
-45C:\Users\jjj\repos\JD\node_modules\micromatch133393667979054145 1
-54C:\Users\jjj\repos\JD\node_modules\lodash\fp\sortBy.js133393668630740016 0
-91C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\LICENSE133393667941209332 0
-59C:\Users\jjj\repos\JD\node_modules\xxhash-wasm\package.json133393668001793376 0
-73C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\svg-smil.js133393668626586445 0
-49C:\Users\jjj\repos\JD\node_modules\lodash\bind.js133393668519456885 0
-63C:\Users\jjj\repos\JD\node_modules\es-abstract\5\ToPrimitive.js133393668691496521 0
-58C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_dispose133393668501920313 1
-59C:\Users\jjj\repos\JD\node_modules\@types\node\package.json133393668283139921 0
-90C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\SourceMapDevToolPlugin.check.js133393668590740668 0
-45C:\Users\jjj\repos\JD\node_modules\camel-case133393668113725709 1
-69C:\Users\jjj\repos\JD\node_modules\is-typed-array\.github\FUNDING.yml133393668109872076 0
-80C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\no-namespace.js133393668353807881 0
-69C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\keywords.js133393668403836789 0
-73C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\GetOwnPropertyKeys.js133393668576858168 0
-86C:\Users\jjj\repos\JD\node_modules\webpack\lib\serialization\RegExpObjectSerializer.js133393668582252890 0
 82C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\BannerPlugin.check.d.ts133393668625687339 0
 82C:\Users\jjj\repos\JD\node_modules\es-abstract\2021\CanonicalNumericIndexString.js133393668467917984 0
 92C:\Users\jjj\repos\JD\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133393668209843856 0
@@ -384,6 +375,7 @@
 77C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\magnetometer.js133393668582252890 0
 76C:\Users\jjj\repos\JD\node_modules\pkg-dir\node_modules\find-up\package.json133393667941502666 0
 41C:\Users\jjj\repos\JD\node_modules\lodash133393668658647621 1
+109C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\medium.11e7a8f2.svg133414137641991396 0
 58C:\Users\jjj\repos\JD\node_modules\csso\cjs\replace\atrule133393668228371923 1
 42C:\Users\jjj\repos\JD\node_modules\is-glob133393667979732351 1
 108C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\index.js133393668336619161 0
@@ -515,6 +507,26 @@
 87C:\Users\jjj\repos\JD\node_modules\webpack\lib\async-modules\InferAsyncModulesPlugin.js133393668528266510 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\TH.js133393668631394369 0
 46C:\Users\jjj\repos\JD\node_modules\buffer-from133393667978905506 1
+52C:\Users\jjj\repos\JD\node_modules\async\asyncify.js133393668159722028 0
+51C:\Users\jjj\repos\JD\node_modules\lodash\random.js133393668624957473 0
+66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\KW.js133393668577332026 0
+45C:\Users\jjj\repos\JD\node_modules\micromatch133393667979054145 1
+54C:\Users\jjj\repos\JD\node_modules\lodash\fp\sortBy.js133393668630740016 0
+91C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\LICENSE133393667941209332 0
+59C:\Users\jjj\repos\JD\node_modules\xxhash-wasm\package.json133393668001793376 0
+73C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\svg-smil.js133393668626586445 0
+49C:\Users\jjj\repos\JD\node_modules\lodash\bind.js133393668519456885 0
+63C:\Users\jjj\repos\JD\node_modules\es-abstract\5\ToPrimitive.js133393668691496521 0
+48C:\Users\jjj\repos\JD\dist\devdotto.c5600637.svg133414137293261014 0
+58C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_dispose133393668501920313 1
+59C:\Users\jjj\repos\JD\node_modules\@types\node\package.json133393668283139921 0
+90C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\SourceMapDevToolPlugin.check.js133393668590740668 0
+45C:\Users\jjj\repos\JD\node_modules\camel-case133393668113725709 1
+69C:\Users\jjj\repos\JD\node_modules\is-typed-array\.github\FUNDING.yml133393668109872076 0
+80C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\no-namespace.js133393668353807881 0
+69C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\keywords.js133393668403836789 0
+73C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\GetOwnPropertyKeys.js133393668576858168 0
+86C:\Users\jjj\repos\JD\node_modules\webpack\lib\serialization\RegExpObjectSerializer.js133393668582252890 0
 90C:\Users\jjj\repos\JD\node_modules\trim-repeated\node_modules\escape-string-regexp\license133393667973003045 0
 117C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\docs\rules\no-noninteractive-element-to-interactive-role.md133393668485885770 0
 87C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\xast.js133393668349073305 0
@@ -591,6 +603,7 @@
 46C:\Users\jjj\repos\JD\node_modules\cosmiconfig133393668199975643 1
 53C:\Users\jjj\repos\JD\node_modules\es-abstract\es7.js133393668548309834 0
 48C:\Users\jjj\repos\JD\node_modules\shebang-regex133393667996132741 1
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0c\9c5da000d08ddab004ed1ab3b0f34f8fca3072133414137656021937 0
 58C:\Users\jjj\repos\JD\node_modules\@swc\types\package.json133393667973944293 0
 76C:\Users\jjj\repos\JD\node_modules\webpack\lib\sharing\ShareRuntimeModule.js133393668590056389 0
 58C:\Users\jjj\repos\JD\node_modules\neo-async\eachSeries.js133393668258204864 0
@@ -608,6 +621,7 @@
 58C:\Users\jjj\repos\JD\node_modules\prettier-linter-helpers133393668115894069 1
 65C:\Users\jjj\repos\JD\node_modules\regexp.prototype.flags\shim.js133393668115644036 0
 39C:\Users\jjj\repos\JD\node_modules\glob133393668023472512 1
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\8b\fcb11b9fc0a3c911032abdfa58dcb49b949257133414137568334849 0
 100C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\neq.js133393668228261914 0
 55C:\Users\jjj\repos\JD\node_modules\schema-utils\LICENSE133393667973554319 0
 92C:\Users\jjj\repos\JD\node_modules\webpack\lib\prefetch\ChunkPrefetchTriggerRuntimeModule.js133393668342901489 0
@@ -639,7 +653,7 @@
 52C:\Users\jjj\repos\JD\node_modules\is-regex\index.js133393668014919664 0
 80C:\Users\jjj\repos\JD\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs133393668210283853 0
 40C:\Users\jjj\repos\JD\node_modules\debug133393668051275184 1
-45C:\Users\jjj\repos\JD\dist\index.1303bb05.css133393669834299629 0
+45C:\Users\jjj\repos\JD\dist\index.1303bb05.css133414168368516103 0
 82C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133393667978388318 0
 67C:\Users\jjj\repos\JD\node_modules\resolve\test\resolver\same_names133393668322168397 1
 66C:\Users\jjj\repos\JD\node_modules\typed-array-byte-length\.github133393668108079059 1
@@ -662,6 +676,7 @@
 48C:\Users\jjj\repos\JD\node_modules\lodash\tap.js133393668632578579 0
 91C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\JsonModulesPluginParser.check.js133393668537581454 0
 67C:\Users\jjj\repos\JD\node_modules\webpack\lib\EnvironmentPlugin.js133393668485743535 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\a8\2f8b37a5f9470083402600983f8b9d6356fac4133414137558904878 0
 87C:\Users\jjj\repos\JD\node_modules\@babel\highlight\node_modules\color-convert\index.js133393667993276626 0
 74C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\autofocus.js133393668283455159 0
 55C:\Users\jjj\repos\JD\node_modules\define-data-property133393668123896191 1
@@ -788,6 +803,7 @@
 54C:\Users\jjj\repos\JD\node_modules\resolve\bin\resolve133393668023822514 0
 54C:\Users\jjj\repos\JD\node_modules\es-iterator-helpers133393668380788974 1
 60C:\Users\jjj\repos\JD\node_modules\webpack\lib\MultiStats.js133393668553954593 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\48\4e96bd0c8b18bbfbc43f4c5c21291350d51126133393680403272815 0
 66C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_read_only_error133393668513405626 1
 81C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\entities\lib\encode.d.ts.map133393668281997005 0
 79C:\Users\jjj\repos\JD\node_modules\webpack\lib\library\AbstractLibraryPlugin.js133393667965558909 0
@@ -979,6 +995,7 @@
 75C:\Users\jjj\repos\JD\node_modules\@parcel\diagnostic\test\markdown.test.js133393668049890408 0
 60C:\Users\jjj\repos\JD\node_modules\weak-lru-cache\index.d.ts133393668106754318 0
 52C:\Users\jjj\repos\JD\node_modules\eslint\lib\linter133393668554923858 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\01133393680390510861 1
 118C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133393668374561775 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\5\MonthFromTime.js133393668652338165 0
 105C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133393668485434354 0
@@ -1140,6 +1157,7 @@
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\UnicodeEscape.js133393668694037729 0
 56C:\Users\jjj\repos\JD\node_modules\terser-webpack-plugin133393668099560942 1
 85C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\domutils\lib\esm\querying.js.map133393668280814931 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\73\607210646b1b968f841447cae743403205cb46133414137610764039 0
 61C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_throw.js133393668453398709 0
 44C:\Users\jjj\repos\JD\node_modules\has-proto133393668057270567 1
 74C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\JSXFragment.js133393668329679448 0
@@ -1287,6 +1305,7 @@
 77C:\Users\jjj\repos\JD\node_modules\csso\cjs\restructure\8-restructRuleset.cjs133393668099630916 0
 73C:\Users\jjj\repos\JD\node_modules\string.prototype.matchall\package.json133393668151788925 0
 58C:\Users\jjj\repos\JD\node_modules\lodash\_baseIteratee.js133393668336619161 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\37133414137573663722 1
 49C:\Users\jjj\repos\JD\node_modules\is-core-module133393668106082253 1
 63C:\Users\jjj\repos\JD\node_modules\htmlparser2\lib\Tokenizer.js133393668014689460 0
 80C:\Users\jjj\repos\JD\node_modules\strip-outer\node_modules\escape-string-regexp133393667985803620 1
@@ -1425,11 +1444,13 @@
 89C:\Users\jjj\repos\JD\node_modules\webpack\lib\wasm-sync\WasmChunkLoadingRuntimeModule.js133393668612750724 0
 65C:\Users\jjj\repos\JD\node_modules\string.prototype.trim\index.js133393668099640913 0
 51C:\Users\jjj\repos\JD\node_modules\ignore\legacy.js133393667978417912 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\34133393680403192837 1
 90C:\Users\jjj\repos\JD\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133393668374521783 0
 63C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\ToBigInt.js133393668690420721 0
 56C:\Users\jjj\repos\JD\node_modules\lodash\findLastKey.js133393668553954593 0
 53C:\Users\jjj\repos\JD\node_modules\path-parse\LICENSE133393667935446768 0
 78C:\Users\jjj\repos\JD\node_modules\typed-array-byte-length\.github\FUNDING.yml133393668108957812 0
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-receive.sample133393680356395729 0
 86C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\no-array-index-key.js133393668342670962 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\InLeapYear.js133393668589241064 0
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\TestIntegrityLevel.js133393668685257229 0
@@ -1509,7 +1530,7 @@
 61C:\Users\jjj\repos\JD\node_modules\set-function-name\index.js133393667979104141 0
 78C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\readonly-attr.js133393668620725834 0
 89C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\src\values\expressions\BindExpression.js133393668120572542 0
-49C:\Users\jjj\repos\JD\dist\instagram.dc5ca4b1.svg133393669834229625 0
+49C:\Users\jjj\repos\JD\dist\instagram.dc5ca4b1.svg133414160804360541 0
 59C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\Type.js133393668692686530 0
 90C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\dom-serializer\lib\esm\index.d.ts.map133393668112276477 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\UA.js133393668632749067 0
@@ -1580,6 +1601,7 @@
 57C:\Users\jjj\repos\JD\node_modules\async\forEachSeries.js133393668330265710 0
 74C:\Users\jjj\repos\JD\node_modules\react-is\cjs\react-is.production.min.js133393668051996720 0
 74C:\Users\jjj\repos\JD\node_modules\parcel\node_modules\commander\Readme.md133393668058213327 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0c133414137657452019 1
 84C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\__tests__\src\eventHandlers-test.js133393668211629126 0
 71C:\Users\jjj\repos\JD\node_modules\css-what\lib\commonjs\index.d.ts.map133393668118733426 0
 59C:\Users\jjj\repos\JD\node_modules\svgo\lib\svgo\plugins.js133393668244030736 0
@@ -1729,12 +1751,6 @@
 65C:\Users\jjj\repos\JD\node_modules\is-boolean-object\package.json133393668068748152 0
 77C:\Users\jjj\repos\JD\node_modules\@parcel\utils\test\input\config\empty.json133393668350067435 0
 67C:\Users\jjj\repos\JD\node_modules\is-finalizationregistry\index.js133393667996844980 0
-60C:\Users\jjj\repos\JD\node_modules\side-channel\CHANGELOG.md133393668076228563 0
-57C:\Users\jjj\repos\JD\node_modules\concat-map\test\map.js133393668054417473 0
-66C:\Users\jjj\repos\JD\node_modules\which-builtin-type\package.json133393668015473750 0
-65C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\DaysInYear.js133393668528577702 0
-44C:\Users\jjj\repos\JD\node_modules\path-type133393667996302725 1
-61C:\Users\jjj\repos\JD\node_modules\htmlparser2\lib\index.d.ts133393668151703806 0
 47C:\Users\jjj\repos\JD\node_modules\react-is\umd133393668102499683 1
 82C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\entities\lib\esm\package.json133393668181921773 0
 44C:\Users\jjj\repos\JD\node_modules\picomatch133393668111063173 1
@@ -1753,6 +1769,7 @@
 42C:\Users\jjj\repos\JD\node_modules\pkg-dir133393667996554976 1
 54C:\Users\jjj\repos\JD\node_modules\callsites\readme.md133393667996884985 0
 55C:\Users\jjj\repos\JD\node_modules\postcss-value-parser133393668068748152 1
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\70\a984687bfb376d65eba1541cc17245c3d3f99b133414137643001400 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\YearFromTime.js133393668700067754 0
 63C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\ToString.js133393668691696649 0
 59C:\Users\jjj\repos\JD\node_modules\which-typed-array\.nycrc133393667972222577 0
@@ -1767,6 +1784,7 @@
 49C:\Users\jjj\repos\JD\node_modules\to-regex-range133393667978989928 1
 80C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\Number\unsignedRightShift.js133393668694085927 0
 43C:\Users\jjj\repos\JD\node_modules\posthtml133393668007491892 1
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9b\1aec773336038c31dd58512567015ed16b4e66133414137563504852 0
 93C:\Users\jjj\repos\JD\node_modules\json-stable-stringify-without-jsonify\example\value_cmp.js133393668072434100 0
 68C:\Users\jjj\repos\JD\node_modules\@webassemblyjs\utf8\test\index.js133393668055450183 0
 56C:\Users\jjj\repos\JD\node_modules\resolve\.editorconfig133393667940133036 0
@@ -1921,6 +1939,7 @@
 55C:\Users\jjj\repos\JD\node_modules\is-weakmap\.eslintrc133393667935006714 0
 57C:\Users\jjj\repos\JD\node_modules\randombytes\browser.js133393667986083537 0
 58C:\Users\jjj\repos\JD\node_modules\terser\tools\props.html133393668052006738 0
+49C:\Users\jjj\repos\JD\dist\instagram.834d60d8.svg133414137293841006 0
 59C:\Users\jjj\repos\JD\node_modules\axe-core\locales\es.json133393668254996542 0
 60C:\Users\jjj\repos\JD\node_modules\string.prototype.matchall133393668164178323 1
 66C:\Users\jjj\repos\JD\node_modules\utility-types\dist\index.js.map133393668108019069 0
@@ -1964,6 +1983,7 @@
 77C:\Users\jjj\repos\JD\node_modules\string.prototype.trimend\implementation.js133393668029254914 0
 87C:\Users\jjj\repos\JD\node_modules\webpack\lib\node\RequireChunkLoadingRuntimeModule.js133393668582571985 0
 66C:\Users\jjj\repos\JD\node_modules\supports-preserve-symlinks-flag133393668106748118 1
+100C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks133393680356405738 1
 55C:\Users\jjj\repos\JD\node_modules\@types\node\ts4.8\fs133393668453103028 1
 86C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\lib\syntax\config\mix.js133393668485434354 0
 68C:\Users\jjj\repos\JD\node_modules\source-map\dist\source-map.min.js133393668218975185 0
@@ -2169,13 +2189,6 @@
 69C:\Users\jjj\repos\JD\node_modules\string.prototype.trimend\README.md133393668152948852 0
 65C:\Users\jjj\repos\JD\node_modules\xxhash-wasm\umd\xxhash-wasm.js133393667988734759 0
 68C:\Users\jjj\repos\JD\node_modules\functions-have-names\package.json133393668052314803 0
-68C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\src\getPropValue.js133393668282067007 0
-95C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\ltr.js133393668209883856 0
-83C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\dpub\docPagelistRole.js133393668322618913 0
-57C:\Users\jjj\repos\JD\node_modules\lodash\_copySymbols.js133393668403203364 0
-73C:\Users\jjj\repos\JD\node_modules\string.prototype.trimstart\polyfill.js133393668110526115 0
-95C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\esm\classStaticPrivateFieldSpecSet.js133393668349966915 0
-93C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\JsonModulesPluginParser.check.d.ts133393668626071920 0
 69C:\Users\jjj\repos\JD\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map133393668072434100 0
 88C:\Users\jjj\repos\JD\node_modules\json-stable-stringify-without-jsonify\test\to-json.js133393668152418821 0
 54C:\Users\jjj\repos\JD\node_modules\terser\lib\scope.js133393668322778918 0
@@ -2504,6 +2517,13 @@
 85C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\css-select\lib\esm\attributes.js133393668057716185 0
 82C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\IgnorePlugin.check.d.ts133393668626071920 0
 80C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\IgnorePlugin.check.js133393668515457555 0
+68C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\src\getPropValue.js133393668282067007 0
+95C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\ltr.js133393668209883856 0
+83C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\dpub\docPagelistRole.js133393668322618913 0
+57C:\Users\jjj\repos\JD\node_modules\lodash\_copySymbols.js133393668403203364 0
+73C:\Users\jjj\repos\JD\node_modules\string.prototype.trimstart\polyfill.js133393668110526115 0
+95C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\esm\classStaticPrivateFieldSpecSet.js133393668349966915 0
+93C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\JsonModulesPluginParser.check.d.ts133393668626071920 0
 59C:\Users\jjj\repos\JD\node_modules\path-exists\package.json133393667940153038 0
 89C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\LoaderOptionsPlugin.check.d.ts133393668626254510 0
 56C:\Users\jjj\repos\JD\node_modules\lodash\_equalByTag.js133393668453906167 0
@@ -2621,6 +2641,7 @@
 72C:\Users\jjj\repos\JD\node_modules\css-tree\lib\tokenizer\TokenStream.js133393668502581874 0
 73C:\Users\jjj\repos\JD\node_modules\webpack\lib\WebpackOptionsDefaulter.js133393668622560619 0
 80C:\Users\jjj\repos\JD\node_modules\resolve\test\module_dir\ymodules\aaa\index.js133393668259072071 0
+45C:\Users\jjj\repos\JD\dist\JD.3464ddca.js.map133414168368498399 0
 76C:\Users\jjj\repos\JD\node_modules\@parcel\core\src\requests\AssetRequest.js133393668251452965 0
 83C:\Users\jjj\repos\JD\node_modules\css-tree\cjs\tokenizer\char-code-definitions.cjs133393668150633658 0
 67C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\elementType.js133393668185167907 0
@@ -2664,6 +2685,7 @@
 82C:\Users\jjj\repos\JD\node_modules\webpack\lib\ids\DeterministicModuleIdsPlugin.js133393668470945207 0
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\CopyDataProperties.js133393668501055535 0
 89C:\Users\jjj\repos\JD\node_modules\webpack\schemas\plugins\debug\ProfilingPlugin.check.js133393668576858168 0
+50C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages133393680356325898 1
 57C:\Users\jjj\repos\JD\node_modules\array-includes\.github133393668163848419 1
 54C:\Users\jjj\repos\JD\node_modules\neo-async\concat.js133393668184807897 0
 76C:\Users\jjj\repos\JD\node_modules\webpack\node_modules\estraverse\README.md133393668025406900 0
@@ -3112,9 +3134,9 @@
 67C:\Users\jjj\repos\JD\node_modules\has-property-descriptors\.github133393668105432858 1
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\StringCreate.js133393668683509080 0
 62C:\Users\jjj\repos\JD\node_modules\webpack\lib\InitFragment.js133393668528457698 0
+53C:\Users\jjj\repos\JD\node_modules\lodash\_hashHas.js133393668472175156 0
 87C:\Users\jjj\repos\JD\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map133393668003359716 0
 58C:\Users\jjj\repos\JD\node_modules\lodash\cloneDeepWith.js133393668528657684 0
-53C:\Users\jjj\repos\JD\node_modules\lodash\_hashHas.js133393668472175156 0
 98C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\stringifier.js133393668336173477 0
 79C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\viewport-units.js133393668635491327 0
 83C:\Users\jjj\repos\JD\node_modules\svgo\node_modules\entities\lib\esm\encode.js.map133393668283898611 0
@@ -3269,6 +3291,7 @@
 85C:\Users\jjj\repos\JD\node_modules\webpack\lib\SourceMapDevToolModuleOptionsPlugin.js133393668590740668 0
 61C:\Users\jjj\repos\JD\node_modules\watchpack\lib\watchpack.js133393668063910010 0
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\DayWithinYear.js133393668532679038 0
+112C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\remotes133393680374474421 1
 58C:\Users\jjj\repos\JD\node_modules\webpack\lib\Template.js133393668610268617 0
 73C:\Users\jjj\repos\JD\node_modules\@jridgewell\trace-mapping\package.json133393667976744105 0
 62C:\Users\jjj\repos\JD\node_modules\iterator.prototype\index.js133393667979144140 0
@@ -3525,6 +3548,7 @@
 103C:\Users\jjj\repos\JD\node_modules\@parcel\package-manager\node_modules\semver\ranges\to-comparators.js133393668283614095 0
 58C:\Users\jjj\repos\JD\node_modules\lodash\findLastIndex.js133393668553400712 0
 81C:\Users\jjj\repos\JD\node_modules\webpack\lib\runtime\PublicPathRuntimeModule.js133393668577568421 0
+110C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\twitter.da090011.svg133414137641991396 0
 82C:\Users\jjj\repos\JD\node_modules\webpack\lib\runtime\RelativeUrlRuntimeModule.js133393668582372830 0
 106C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\sequence.js133393668382908974 0
 54C:\Users\jjj\repos\JD\node_modules\lodash\isElement.js133393668582482814 0
@@ -3568,6 +3592,7 @@
 59C:\Users\jjj\repos\JD\node_modules\punycode\punycode.es6.js133393667935016720 0
 89C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133393668462959210 0
 78C:\Users\jjj\repos\JD\node_modules\webpack\lib\performance\SizeLimitsPlugin.js133393668590409046 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\32133414137609114034 1
 106C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\to-comparators.js133393668283908589 0
 83C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\LICENSE133393667941199332 0
 62C:\Users\jjj\repos\JD\node_modules\array-includes\CHANGELOG.md133393668151898937 0
@@ -3618,6 +3643,7 @@
 62C:\Users\jjj\repos\JD\node_modules\terser\lib\equivalent-to.js133393668253970455 0
 54C:\Users\jjj\repos\JD\node_modules\fs-extra\lib\ensure133393668164248345 1
 72C:\Users\jjj\repos\JD\node_modules\webpack\lib\json\JsonModulesPlugin.js133393668537398314 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\59133393680400696873 1
 52C:\Users\jjj\repos\JD\node_modules\terser\PATRONS.md133393668336118215 0
 85C:\Users\jjj\repos\JD\node_modules\webpack\lib\javascript\EnableChunkLoadingPlugin.js133393668485267020 0
 64C:\Users\jjj\repos\JD\node_modules\@lezer\lr\dist\constants.d.ts133393668068364111 0
@@ -3947,6 +3973,7 @@
 52C:\Users\jjj\repos\JD\node_modules\lru-cache\LICENSE133393667933366724 0
 69C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\ArraySetLength.js133393668349916842 0
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\helpers\integerToNBytes.js133393668590409046 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\b2133414137567194910 1
 59C:\Users\jjj\repos\JD\node_modules\lodash\wrapperReverse.js133393668654547603 0
 82C:\Users\jjj\repos\JD\node_modules\webpack\lib\config\browserslistTargetHandler.js133393668329859448 0
 72C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_class_call_check.js133393668379658982 0
@@ -4058,6 +4085,7 @@
 61C:\Users\jjj\repos\JD\node_modules\utility-types\package.json133393668052037273 0
 102C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\min-version.js133393668223628979 0
 51C:\Users\jjj\repos\JD\node_modules\stable\stable.js133393667985913578 0
+111C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\linkedin.b0d336c3.svg133414137641991396 0
 60C:\Users\jjj\repos\JD\node_modules\utility-types\SECURITY.md133393668151111496 0
 65C:\Users\jjj\repos\JD\node_modules\array.prototype.flat\.eslintrc133393667970552407 0
 55C:\Users\jjj\repos\JD\node_modules\has-bigints\index.js133393667986243532 0
@@ -4167,8 +4195,8 @@
 61C:\Users\jjj\repos\JD\node_modules\renderkid\lib\layout\block133393668164298324 1
 61C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\formats.js133393668281807025 0
 61C:\Users\jjj\repos\JD\node_modules\uri-js\dist\esnext\util.js133393668152818875 0
-59C:\Users\jjj\repos\JD\node_modules\tslib\modules\index.d.ts133393668119086811 0
 74C:\Users\jjj\repos\JD\node_modules\string.prototype.matchall\test\index.js133393668099680897 0
+59C:\Users\jjj\repos\JD\node_modules\tslib\modules\index.d.ts133393668119086811 0
 70C:\Users\jjj\repos\JD\node_modules\eslint-visitor-keys\dist\index.d.ts133393668106954159 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\_composeArgs.js133393668401219670 0
 65C:\Users\jjj\repos\JD\node_modules\uri-js\dist\esnext\util.js.map133393668253444546 0
@@ -4573,6 +4601,7 @@
 93C:\Users\jjj\repos\JD\node_modules\strip-outer\node_modules\escape-string-regexp\package.json133393667941217963 0
 59C:\Users\jjj\repos\JD\node_modules\text-table\test\table.js133393668152078932 0
 63C:\Users\jjj\repos\JD\node_modules\no-case\dist\index.spec.d.ts133393668151261525 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\6e133414137655311984 1
 65C:\Users\jjj\repos\JD\node_modules\gh-pages\bin\gh-pages-clean.js133393667965056088 0
 62C:\Users\jjj\repos\JD\node_modules\text-table\example\align.js133393668003716185 0
 110C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\index.js133393668336173477 0
@@ -4772,6 +4801,7 @@
 62C:\Users\jjj\repos\JD\node_modules\tapable\lib\util-browser.js133393668159702006 0
 62C:\Users\jjj\repos\JD\node_modules\lodash\fp\intersectionBy.js133393668577432026 0
 56C:\Users\jjj\repos\JD\node_modules\mdn-data\CHANGELOG.md133393668233830527 0
+109C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\github.a2abf599.svg133414137641891386 0
 44C:\Users\jjj\repos\JD\node_modules\svgo\dist133393668333857805 1
 56C:\Users\jjj\repos\JD\node_modules\strip-outer\readme.md133393667988473707 0
 53C:\Users\jjj\repos\JD\node_modules\lodash\methodOf.js133393668612390296 0
@@ -4957,6 +4987,7 @@
 56C:\Users\jjj\repos\JD\node_modules\lodash\_baseKeysIn.js133393668336999025 0
 83C:\Users\jjj\repos\JD\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133393668105432858 0
 64C:\Users\jjj\repos\JD\node_modules\serialize-javascript\index.js133393667951322332 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\eb133414137567704862 1
 52C:\Users\jjj\repos\JD\node_modules\lodash\bindAll.js133393668522480603 0
 79C:\Users\jjj\repos\JD\node_modules\string.prototype.matchall\regexp-matchall.js133393668115854032 0
 91C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-first-prop-new-line.js133393668274569962 0
@@ -5227,6 +5258,7 @@
 77C:\Users\jjj\repos\JD\node_modules\jest-worker\build\workers\messageParent.js133393668099525560 0
 55C:\Users\jjj\repos\JD\node_modules\micromatch\README.md133393667993176628 0
 79C:\Users\jjj\repos\JD\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md133393668068748152 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9b133414137564004933 1
 74C:\Users\jjj\repos\JD\node_modules\supports-preserve-symlinks-flag\LICENSE133393667971187868 0
 60C:\Users\jjj\repos\JD\node_modules\@parcel\utils\src\path.js133393668330616518 0
 60C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-image133393668102489671 1
@@ -5247,6 +5279,7 @@
 88C:\Users\jjj\repos\JD\node_modules\@humanwhocodes\module-importer\src\module-importer.js133393668050075164 0
 67C:\Users\jjj\repos\JD\node_modules\strip-json-comments\package.json133393667972711549 0
 69C:\Users\jjj\repos\JD\node_modules\string.prototype.trimstart\LICENSE133393667996402752 0
+126C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\fsmonitor-watchman.sample133393680356365728 0
 95C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\patch.json133393668402933353 0
 49C:\Users\jjj\repos\JD\node_modules\react\index.js133393667958768907 0
 56C:\Users\jjj\repos\JD\node_modules\lodash\lastIndexOf.js133393668596151366 0
@@ -5839,9 +5872,11 @@
 62C:\Users\jjj\repos\JD\node_modules\object.assign\test\tests.js133393668243830699 0
 59C:\Users\jjj\repos\JD\node_modules\resolve\test\node_path\x133393668274639952 1
 105C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\lib\rules\aria-activedescendant-has-tabindex.js133393668165998325 0
+100C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\index133414137655321944 0
 59C:\Users\jjj\repos\JD\node_modules\resolve\test\node_path\y133393668283109904 1
 69C:\Users\jjj\repos\JD\node_modules\lodash\fp\symmetricDifferenceBy.js133393668631927371 0
 63C:\Users\jjj\repos\JD\node_modules\resolve\test\node_path\x\aaa133393668273829961 1
+111C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.4e09bb27.js.map133414137642031403 0
 63C:\Users\jjj\repos\JD\node_modules\resolve\test\node_path\x\ccc133393668280574943 1
 76C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\__tests__\src\index-test.js133393668315687344 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\SetValueInBuffer.js133393668680539084 0
@@ -5858,6 +5893,7 @@
 55C:\Users\jjj\repos\JD\node_modules\resolve\lib\async.js133393668151282739 0
 56C:\Users\jjj\repos\JD\node_modules\lodash\fp\template.js133393668632749067 0
 57C:\Users\jjj\repos\JD\node_modules\resolve\lib\homedir.js133393668242770707 0
+158C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\pack\pack-8097fa4a9aad36f932893789ca3281bdab0feff8.pack133414137609134121 0
 56C:\Users\jjj\repos\JD\node_modules\ajv\lib\dot\oneOf.jst133393668349592717 0
 75C:\Users\jjj\repos\JD\node_modules\array.prototype.tosorted\test\shimmed.js133393668115644036 0
 66C:\Users\jjj\repos\JD\node_modules\es-abstract\2017\ArrayCreate.js133393668337434817 0
@@ -5947,6 +5983,7 @@
 54C:\Users\jjj\repos\JD\node_modules\is-bigint\.eslintrc133393667946056540 0
 53C:\Users\jjj\repos\JD\node_modules\lodash\truncate.js133393668643712877 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\Number\leftShift.js133393668633080734 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9c\6d5fd7d29448032c1350e12f7bbb9b77ca6b43133414137575409937 0
 84C:\Users\jjj\repos\JD\node_modules\renderkid\node_modules\entities\lib\maps\xml.json133393668112266828 0
 60C:\Users\jjj\repos\JD\node_modules\lodash\fp\forEachRight.js133393668566244251 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\YearFromTime.js133393668700067754 0
@@ -6174,6 +6211,7 @@
 64C:\Users\jjj\repos\JD\node_modules\@parcel\profiler\src\Trace.js133393668054578283 0
 74C:\Users\jjj\repos\JD\node_modules\react-is\umd\react-is.production.min.js133393668106172189 0
 62C:\Users\jjj\repos\JD\node_modules\react-error-overlay\LICENSE133393667935916783 0
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\remotes\origin133414137617332048 1
 60C:\Users\jjj\repos\JD\node_modules\es-abstract\5\ToUint16.js133393668691926534 0
 67C:\Users\jjj\repos\JD\node_modules\react-error-overlay\package.json133393668076371076 0
 52C:\Users\jjj\repos\JD\node_modules\fs-extra\lib\util133393668273540212 1
@@ -6196,11 +6234,13 @@
 88C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\lib\util\isPresentationRole.js133393668375660784 0
 73C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-babel\lib\types.js133393668165448318 0
 59C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\Call.js133393668453236818 0
+124C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\remotes\origin\main133414137617492083 0
 88C:\Users\jjj\repos\JD\node_modules\react-dom\umd\react-dom-server.browser.development.js133393668242020722 0
 91C:\Users\jjj\repos\JD\node_modules\react-dom\umd\react-dom-server.browser.production.min.js133393668251130799 0
 109C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\no-distracting-elements-test.js133393668405534810 0
 87C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\boolean-prop-naming.js133393668054417473 0
 63C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\ToObject.js133393668691426525 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c4\a16f163dffb6c33ad1a54f29ccd427c2ed51fb133414137564114940 0
 84C:\Users\jjj\repos\JD\node_modules\react-dom\umd\react-dom-test-utils.development.js133393668283007466 0
 87C:\Users\jjj\repos\JD\node_modules\react-dom\umd\react-dom-test-utils.production.min.js133393668284607295 0
 77C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\data\patch.json133393668502768203 0
@@ -6257,11 +6297,13 @@
 51C:\Users\jjj\repos\JD\node_modules\process\index.js133393668001833373 0
 58C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\Number133393668694077737 1
 79C:\Users\jjj\repos\JD\node_modules\react\cjs\react-jsx-runtime.profiling.min.js133393668112336798 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\eb\d70cdd320c5bde9f8ebf101e69e3e3bb11424f133414137567334854 0
 71C:\Users\jjj\repos\JD\node_modules\@parcel\profiler\test\Tracer.test.js133393668110596118 0
 68C:\Users\jjj\repos\JD\node_modules\react\cjs\react.production.min.js133393668159842014 0
 93C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\prefer-stateless-function.js133393668382998970 0
 49C:\Users\jjj\repos\JD\node_modules\lodash\cond.js133393668537581454 0
 82C:\Users\jjj\repos\JD\node_modules\react\cjs\react.shared-subset.production.min.js133393668184767905 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\7d133414137566154900 1
 56C:\Users\jjj\repos\JD\node_modules\randombytes\.zuul.yml133393667971107870 0
 53C:\Users\jjj\repos\JD\node_modules\lodash\_metaMap.js133393668486588195 0
 54C:\Users\jjj\repos\JD\node_modules\randombytes\LICENSE133393668014478171 0
@@ -6459,7 +6501,7 @@
 66C:\Users\jjj\repos\JD\node_modules\eslint\lib\source-code\index.js133393668389199339 0
 66C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\SecFromTime.js133393668672048079 0
 54C:\Users\jjj\repos\JD\node_modules\lodash\dropWhile.js133393668545604259 0
-46C:\Users\jjj\repos\JD\dist\github.1f13de9d.svg133393669834749616 0
+46C:\Users\jjj\repos\JD\dist\github.1f13de9d.svg133414160804360541 0
 84C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\dpub\docBibliorefRole.js133393668258104808 0
 63C:\Users\jjj\repos\JD\node_modules\posthtml\types\posthtml.d.ts133393668024533924 0
 72C:\Users\jjj\repos\JD\node_modules\posthtml\node_modules\posthtml-parser133393668015433792 1
@@ -6546,6 +6588,7 @@
 55C:\Users\jjj\repos\JD\node_modules\optionator\README.md133393668068748152 0
 56C:\Users\jjj\repos\JD\node_modules\picomatch\lib\scan.js133393668050795079 0
 76C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\DeletePropertyOrThrow.js133393668539244473 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\b2\6657ad46faf19034ef0ae21a857083a81bb458133414137566344879 0
 102C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\List.js133393668342560974 0
 79C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\literal\mainRole.js133393668358987532 0
 57C:\Users\jjj\repos\JD\node_modules\picomatch\lib\utils.js133393668065752272 0
@@ -6563,6 +6606,7 @@
 62C:\Users\jjj\repos\JD\node_modules\css-tree\lib\utils\clone.js133393668434593653 0
 54C:\Users\jjj\repos\JD\node_modules\path-parse\index.js133393667951381235 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\GetGlobalObject.js133393668564981358 0
+114C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\remotes\origin133414137769636132 1
 52C:\Users\jjj\repos\JD\node_modules\path-key\index.js133393667958438230 0
 53C:\Users\jjj\repos\JD\node_modules\path-key\readme.md133393667988774753 0
 59C:\Users\jjj\repos\JD\node_modules\lodash\_baseEachRight.js133393668258054828 0
@@ -6598,12 +6642,12 @@
 71C:\Users\jjj\repos\JD\node_modules\pascal-case\dist.es2015\index.js.map133393668054578283 0
 53C:\Users\jjj\repos\JD\node_modules\fastq\test\test.js133393668025045935 0
 74C:\Users\jjj\repos\JD\node_modules\pascal-case\dist.es2015\index.spec.d.ts133393668126575463 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\34\f8d20e3d6b6f0f47b2764d95cb780c14eab2c6133393680402962794 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\LICENSE133393667943380425 0
 67C:\Users\jjj\repos\JD\node_modules\object.assign\test\ses-compat.js133393668233580467 0
 72C:\Users\jjj\repos\JD\node_modules\pascal-case\dist.es2015\index.spec.js133393667995672777 0
 54C:\Users\jjj\repos\JD\node_modules\lodash\fp\assign.js133393668513405626 0
 102C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\accessible-emoji-test.js133393668022812845 0
-62C:\Users\jjj\repos\JD\node_modules\pascal-case\dist\index.d.ts133393668122734057 0
 64C:\Users\jjj\repos\JD\node_modules\pascal-case\dist\index.js.map133393668077406486 0
 67C:\Users\jjj\repos\JD\node_modules\pascal-case\dist\index.spec.d.ts133393668151271515 0
 85C:\Users\jjj\repos\JD\node_modules\parcel\node_modules\commander\package-support.json133393667988834782 0
@@ -6659,6 +6703,7 @@
 51C:\Users\jjj\repos\JD\node_modules\p-try\index.d.ts133393667946056540 0
 52C:\Users\jjj\repos\JD\node_modules\lodash\fp\pick.js133393668623097114 0
 48C:\Users\jjj\repos\JD\node_modules\p-try\license133393667985933558 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\a8133414137571083691 1
 53C:\Users\jjj\repos\JD\node_modules\p-try\package.json133393667933356710 0
 61C:\Users\jjj\repos\JD\node_modules\lodash\fp\dropLastWhile.js133393668545399732 0
 51C:\Users\jjj\repos\JD\node_modules\p-locate\license133393667938538941 0
@@ -6811,6 +6856,7 @@
 81C:\Users\jjj\repos\JD\node_modules\dom-serializer\node_modules\entities\readme.md133393668152078932 0
 57C:\Users\jjj\repos\JD\node_modules\dot-case\dist\index.js133393667977896844 0
 75C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\ToPropertyDescriptor.js133393668691596523 0
+47C:\Users\jjj\repos\JD\dist\twitter.da090011.svg133414137293890998 0
 58C:\Users\jjj\repos\JD\node_modules\object.assign\test.html133393668173030257 0
 59C:\Users\jjj\repos\JD\node_modules\msgpackr-extract\LICENSE133393667933406711 0
 64C:\Users\jjj\repos\JD\node_modules\@swc\helpers\cjs\_type_of.cjs133393668349482726 0
@@ -6881,6 +6927,7 @@
 77C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\ObjectDefineProperties.js133393668660149731 0
 74C:\Users\jjj\repos\JD\node_modules\function.prototype.name\test\shimmed.js133393668125675452 0
 61C:\Users\jjj\repos\JD\node_modules\nullthrows\nullthrows.d.ts133393667971722144 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\de\a556cae022a19da985370a8e7f80af16cf6c1d133414137597052421 0
 62C:\Users\jjj\repos\JD\node_modules\@babel\code-frame\README.md133393667954813201 0
 47C:\Users\jjj\repos\JD\node_modules\lodash\fp.js133393668566579570 0
 48C:\Users\jjj\repos\JD\node_modules\nth-check\lib133393668221515223 1
@@ -6979,6 +7026,7 @@
 63C:\Users\jjj\repos\JD\node_modules\no-case\dist.es2015\index.js133393667959725096 0
 67C:\Users\jjj\repos\JD\node_modules\no-case\dist.es2015\index.js.map133393668057047603 0
 86C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\docs\rules\aria-proptypes.md133393668471955166 0
+48C:\Users\jjj\repos\JD\dist\linkedin.b0d336c3.svg133414137293830986 0
 70C:\Users\jjj\repos\JD\node_modules\no-case\dist.es2015\index.spec.d.ts133393668126555485 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\MP.js133393668589145632 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\wrapperValue.js133393668654707610 0
@@ -7086,7 +7134,7 @@
 51C:\Users\jjj\repos\JD\node_modules\lodash\escape.js133393668548882720 0
 85C:\Users\jjj\repos\JD\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133393668166968319 0
 59C:\Users\jjj\repos\JD\node_modules\neo-async\selectLimit.js133393668350232839 0
-47C:\Users\jjj\repos\JD\dist\twitter.2f63f4f7.svg133393669834749616 0
+47C:\Users\jjj\repos\JD\dist\twitter.2f63f4f7.svg133414160804360541 0
 54C:\Users\jjj\repos\JD\node_modules\neo-async\series.js133393668350688394 0
 60C:\Users\jjj\repos\JD\node_modules\neo-async\setImmediate.js133393668353007915 0
 52C:\Users\jjj\repos\JD\node_modules\neo-async\some.js133393668353317879 0
@@ -7265,6 +7313,7 @@
 63C:\Users\jjj\repos\JD\node_modules\mdn-data\css\properties.json133393668172960272 0
 57C:\Users\jjj\repos\JD\node_modules\mdn-data\css\readme.md133393668241022923 0
 69C:\Users\jjj\repos\JD\node_modules\mdn-data\css\selectors.schema.json133393668208894464 0
+123C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\remotes\origin\gh-pages133414137769596011 0
 58C:\Users\jjj\repos\JD\node_modules\mdn-data\css\types.json133393668221655205 0
 65C:\Users\jjj\repos\JD\node_modules\mdn-data\css\types.schema.json133393668223828975 0
 68C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_await_value.mjs133393668537581454 0
@@ -7360,6 +7409,7 @@
 53C:\Users\jjj\repos\JD\node_modules\lodash\debounce.js133393668539900955 0
 45C:\Users\jjj\repos\JD\node_modules\base-x\src133393668001401657 1
 53C:\Users\jjj\repos\JD\node_modules\lodash\defaults.js133393668540000956 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\36133393680394345146 1
 57C:\Users\jjj\repos\JD\node_modules\lodash\defaultsDeep.js133393668541571607 0
 96C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\util\getTabIndex-test.js133393668322451385 0
 75C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\UTF16EncodeCodePoint.js133393668694495887 0
@@ -7451,6 +7501,7 @@
 53C:\Users\jjj\repos\JD\node_modules\lodash\isLength.js133393668582928919 0
 58C:\Users\jjj\repos\JD\node_modules\has-proto\test\index.js133393667989297468 0
 100C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\docs\rules\click-events-have-key-events.md133393668475361131 0
+111C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\devdotto.c5600637.svg133414137641881400 0
 58C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\Set.js133393668672757832 0
 50C:\Users\jjj\repos\JD\node_modules\lodash\isMap.js133393668582988920 0
 53C:\Users\jjj\repos\JD\node_modules\lodash\isNative.js133393668584386070 0
@@ -7802,6 +7853,7 @@
 82C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\CanonicalNumericIndexString.js133393668467514677 0
 80C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133393668405664800 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\IteratorComplete.js133393668631927371 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c5133393680398695132 1
 60C:\Users\jjj\repos\JD\node_modules\lodash\_getWrapDetails.js133393668468681370 0
 101C:\Users\jjj\repos\JD\node_modules\@parcel\package-manager\node_modules\semver\functions\satisfies.js133393668260131585 0
 55C:\Users\jjj\repos\JD\node_modules\lodash\_hashClear.js133393668468912865 0
@@ -8110,6 +8162,7 @@
 74C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\OrdinaryHasInstance.js133393668661609735 0
 54C:\Users\jjj\repos\JD\node_modules\lodash\fp\isDate.js133393668582372830 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\fp\isElement.js133393668582462815 0
+47C:\Users\jjj\repos\JD\dist\youtube.225f4e4b.svg133414137293900989 0
 55C:\Users\jjj\repos\JD\node_modules\lodash\fp\isEmpty.js133393668582512808 0
 55C:\Users\jjj\repos\JD\node_modules\lodash\fp\isEqual.js133393668582552823 0
 55C:\Users\jjj\repos\JD\node_modules\lodash\fp\isError.js133393668582571985 0
@@ -8150,6 +8203,7 @@
 64C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\use-isnan.js133393668558294510 0
 52C:\Users\jjj\repos\JD\node_modules\lodash\fp\juxt.js133393668590238316 0
 60C:\Users\jjj\repos\JD\node_modules\lodash\fp\sortedUniqBy.js133393668631075419 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\27\51e8b6755d363205199ca0c2d35934e301f49f133414137643161387 0
 57C:\Users\jjj\repos\JD\node_modules\@parcel\runtime-js\src133393668242840725 1
 57C:\Users\jjj\repos\JD\node_modules\lodash\fp\kebabCase.js133393668590238316 0
 60C:\Users\jjj\repos\JD\node_modules\define-properties\.github133393668107154112 1
@@ -8176,6 +8230,7 @@
 76C:\Users\jjj\repos\JD\node_modules\@parcel\core\node_modules\semver\internal133393668257205650 1
 72C:\Users\jjj\repos\JD\node_modules\array-buffer-byte-length\CHANGELOG.md133393668052718193 0
 55C:\Users\jjj\repos\JD\node_modules\lodash\fp\matches.js133393668607570678 0
+57C:\Users\jjj\repos\JD\dist\motion-background.6277a59a.jpg133414137490332881 0
 52C:\Users\jjj\repos\JD\node_modules\lodash\fp\math.js133393668608356496 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\fp\unzipWith.js133393668646198545 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\runtime-service-worker\src133393667987663542 1
@@ -8232,6 +8287,7 @@
 86C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\literal\alertdialogRole.js133393667979224138 0
 70C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\http3.js133393668546932317 0
 53C:\Users\jjj\repos\JD\node_modules\lodash\fp\props.js133393668623577466 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\a0\ed26b6453d9c11bf11328f8b059edb5082744b133414137643151396 0
 52C:\Users\jjj\repos\JD\node_modules\lodash\fp\pull.js133393668623577466 0
 57C:\Users\jjj\repos\JD\node_modules\lodash\fp\pullAllBy.js133393668623741937 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\TrimString.js133393668692626539 0
@@ -8268,6 +8324,7 @@
 71C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\block-scoped-var.js133393668208813627 0
 65C:\Users\jjj\repos\JD\node_modules\lodash\fp\sortedLastIndexOf.js133393668631075419 0
 50C:\Users\jjj\repos\JD\node_modules\fs-extra\lib\fs133393668166848318 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\de133414137602800107 1
 82C:\Users\jjj\repos\JD\node_modules\axobject-query\lib\etc\objects\TextFieldRole.js133393668380998972 0
 58C:\Users\jjj\repos\JD\node_modules\lodash\fp\sortedUniq.js133393668631075419 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2017\StringCreate.js133393668683489080 0
@@ -8435,6 +8492,7 @@
 47C:\Users\jjj\repos\JD\node_modules\lmdb\open.js133393668400474259 0
 68C:\Users\jjj\repos\JD\node_modules\@parcel\utils\src\prettifyTime.js133393668330779311 0
 52C:\Users\jjj\repos\JD\node_modules\lmdb\package.json133393668403213359 0
+41C:\Users\jjj\repos\JD\dist\JD.3464ddca.js133414168366817929 0
 81C:\Users\jjj\repos\JD\node_modules\electron-to-chromium\full-chromium-versions.js133393667979054145 0
 47C:\Users\jjj\repos\JD\node_modules\lmdb\read.js133393668401239644 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2017\IsCallable.js133393668608146461 0
@@ -8461,6 +8519,7 @@
 70C:\Users\jjj\repos\JD\node_modules\@types\eslint\rules\deprecated.d.ts133393668106092238 0
 68C:\Users\jjj\repos\JD\node_modules\@webassemblyjs\leb128\lib\bufs.js133393667959489233 0
 64C:\Users\jjj\repos\JD\node_modules\fs-extra\lib\remove\rimraf.js133393668256792819 0
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.07d075f8.js133414137642021415 0
 51C:\Users\jjj\repos\JD\node_modules\lmdb\src\dbi.cpp133393668350017181 0
 53C:\Users\jjj\repos\JD\node_modules\lmdb\src\lmdb-js.h133393668372111794 0
 64C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\BinaryAnd.js133393668383288969 0
@@ -8573,6 +8632,7 @@
 94C:\Users\jjj\repos\JD\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133393668254280540 0
 94C:\Users\jjj\repos\JD\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133393668211619133 0
 54C:\Users\jjj\repos\JD\node_modules\is-callable\.github133393668109902351 1
+46C:\Users\jjj\repos\JD\dist\medium.11e7a8f2.svg133414137293841006 0
 94C:\Users\jjj\repos\JD\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133393668218945192 0
 76C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133393667971607853 0
 111C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133393668371901798 0
@@ -8784,9 +8844,9 @@
 90C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\ChainExpression.js133393668151808934 0
 96C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\ConditionalExpression.js133393668163788342 0
 93C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\FunctionExpression.js133393668227961931 0
+80C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\OrdinaryDefineOwnProperty.js133393668660869735 0
 85C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\Identifier.js133393668298265195 0
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\DetachArrayBuffer.js133393668539770950 0
-80C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\OrdinaryDefineOwnProperty.js133393668660869735 0
 92C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\LogicalExpression.js133393668334400090 0
 91C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\ObjectExpression.js133393668336949037 0
 99C:\Users\jjj\repos\JD\node_modules\jsx-ast-utils\lib\values\expressions\OptionalMemberExpression.js133393668339366491 0
@@ -8827,6 +8887,7 @@
 55C:\Users\jjj\repos\JD\node_modules\json5\lib\unicode.js133393668112096514 0
 52C:\Users\jjj\repos\JD\node_modules\json5\lib\util.js133393668117056814 0
 90C:\Users\jjj\repos\JD\node_modules\eslint\lib\linter\code-path-analysis\code-path-state.js133393668258314825 0
+124C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\push-to-checkout.sample133393680356395729 0
 54C:\Users\jjj\repos\JD\node_modules\json5\dist\index.js133393667975575258 0
 47C:\Users\jjj\repos\JD\node_modules\csso\LICENSE133393667935406763 0
 59C:\Users\jjj\repos\JD\node_modules\json5\dist\index.min.mjs133393668152368811 0
@@ -8844,6 +8905,7 @@
 90C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node133393668401768155 0
 77C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-rrggbbaa.js133393668486132288 0
 97C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\void-dom-elements-no-children.js133393668403183348 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0b\9f12fda5527b7b3c866b2b0c92e877191ab84d133414137560144868 0
 80C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133393668005381909 0
 76C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\textcontent.js133393668631075419 0
 86C:\Users\jjj\repos\JD\node_modules\json-stable-stringify-without-jsonify\test\space.js133393668126955434 0
@@ -8962,6 +9024,7 @@
 70C:\Users\jjj\repos\JD\node_modules\@nodelib\fs.walk\out\types\index.js133393668099830887 0
 61C:\Users\jjj\repos\JD\node_modules\jest-worker\build\types.js133393668124376122 0
 66C:\Users\jjj\repos\JD\node_modules\jest-worker\build\WorkerPool.js133393668150653659 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\b5133393680398281112 1
 84C:\Users\jjj\repos\JD\node_modules\jest-worker\build\workers\ChildProcessWorker.d.ts133393668164758327 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\IsExtensible.js133393668621417194 0
 90C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\esm\possibleConstructorReturn.js133393668391349271 0
@@ -9402,6 +9465,8 @@
 81C:\Users\jjj\repos\JD\node_modules\es-iterator-helpers\Iterator.prototype.flatMap133393668355134583 1
 110C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js133393668341832948 0
 67C:\Users\jjj\repos\JD\node_modules\html-webpack-plugin\package.json133393668123946156 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\35\94369ff9091ed065b829af4a16afb2f3e880e9133414137562004933 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c2\b504e595b50e985d9a5551410048d8f650fe9c133414137559444866 0
 68C:\Users\jjj\repos\JD\node_modules\html-webpack-plugin\lib\errors.js133393668052194819 0
 73C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\template.js133393668630926219 0
 67C:\Users\jjj\repos\JD\node_modules\html-webpack-plugin\lib\hooks.js133393668104581121 0
@@ -9481,6 +9546,7 @@
 53C:\Users\jjj\repos\JD\node_modules\has-proto\index.js133393667972222577 0
 57C:\Users\jjj\repos\JD\node_modules\has-proto\package.json133393668003586236 0
 54C:\Users\jjj\repos\JD\node_modules\has-proto\README.md133393668052558818 0
+116C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-push.sample133393680356385739 0
 49C:\Users\jjj\repos\JD\node_modules\has-proto\test133393667988684758 1
 62C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\ToInt16.js133393668690866306 0
 64C:\Users\jjj\repos\JD\node_modules\has-proto\.github\FUNDING.yml133393668076228563 0
@@ -9510,7 +9576,7 @@
 48C:\Users\jjj\repos\JD\node_modules\has\README.md133393667972721798 0
 42C:\Users\jjj\repos\JD\node_modules\has\src133393667988744752 1
 103C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\img-redundant-alt-test.js133393668337368008 0
-46C:\Users\jjj\repos\JD\dist\medium.d82cbfc4.svg133393669834229625 0
+46C:\Users\jjj\repos\JD\dist\medium.d82cbfc4.svg133414160804360541 0
 51C:\Users\jjj\repos\JD\node_modules\has\src\index.js133393667989751694 0
 57C:\Users\jjj\repos\JD\node_modules\graphemer\CHANGELOG.md133393668209843856 0
 52C:\Users\jjj\repos\JD\node_modules\graphemer\LICENSE133393667940427237 0
@@ -9579,6 +9645,7 @@
 59C:\Users\jjj\repos\JD\node_modules\dom-serializer\README.md133393668121472482 0
 131C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\no-noninteractive-element-to-interactive-role-test.js133393668437690140 0
 55C:\Users\jjj\repos\JD\node_modules\glob-parent\index.js133393667958768907 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\FETCH_HEAD133414137617841994 0
 56C:\Users\jjj\repos\JD\node_modules\glob-parent\README.md133393667988774753 0
 98C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeTitle.js133393668322888908 0
 49C:\Users\jjj\repos\JD\node_modules\glob\common.js133393667958218218 0
@@ -9623,6 +9690,7 @@
 69C:\Users\jjj\repos\JD\node_modules\get-intrinsic\test\GetIntrinsic.js133393667989297468 0
 69C:\Users\jjj\repos\JD\node_modules\functions-have-names\.editorconfig133393667940123036 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2021\Number\subtract.js133393668684506191 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0f\702797b302c14c955cc31d1bed73b3def308de133414137603939448 0
 68C:\Users\jjj\repos\JD\node_modules\functions-have-names\CHANGELOG.md133393668076228563 0
 69C:\Users\jjj\repos\JD\node_modules\functions-have-names\test\index.js133393668022802832 0
 55C:\Users\jjj\repos\JD\node_modules\eslint\bin\eslint.js133393668336281397 0
@@ -9754,6 +9822,7 @@
 84C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133393668401219670 0
 60C:\Users\jjj\repos\JD\node_modules\flatted\python\flatted.py133393668124571355 0
 57C:\Users\jjj\repos\JD\node_modules\flatted\python\test.py133393668150741525 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\92\91be22d1a8b1f701dc22a39df75ca7baf3899b133414137643201364 0
 61C:\Users\jjj\repos\JD\node_modules\flatted\python\__pycache__133393668151748931 1
 58C:\Users\jjj\repos\JD\node_modules\flatted\php\flatted.php133393668119096821 0
 59C:\Users\jjj\repos\JD\node_modules\flatted\cjs\package.json133393668106222205 0
@@ -9766,7 +9835,7 @@
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\IsCallable.js133393668608336435 0
 92C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\node_modules\doctrine\LICENSE.esprima133393668006981914 0
 58C:\Users\jjj\repos\JD\node_modules\find-cache-dir\index.js133393667958298228 0
-48C:\Users\jjj\repos\JD\dist\devdotto.cdf95505.svg133393669834749616 0
+48C:\Users\jjj\repos\JD\dist\devdotto.cdf95505.svg133414160804350564 0
 62C:\Users\jjj\repos\JD\node_modules\find-cache-dir\package.json133393667972130683 0
 59C:\Users\jjj\repos\JD\node_modules\find-cache-dir\readme.md133393667988473707 0
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\thisTimeValue.js133393668689916707 0
@@ -9917,7 +9986,8 @@
 68C:\Users\jjj\repos\JD\node_modules\eslint-scope\lib\scope-manager.js133393668107819062 0
 60C:\Users\jjj\repos\JD\node_modules\eslint-scope\lib\scope.js133393668112580808 0
 62C:\Users\jjj\repos\JD\node_modules\eslint-scope\lib\version.js133393668122242678 0
-57C:\Users\jjj\repos\JD\dist\motion-background.f104ba0b.jpg133393669834349627 0
+57C:\Users\jjj\repos\JD\dist\motion-background.f104ba0b.jpg133414160804732154 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\f1133414137572183645 1
 94C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\atrule133393668259002041 1
 69C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\opus.js133393668608409825 0
 59C:\Users\jjj\repos\JD\node_modules\es-abstract\2017\Type.js133393668692676519 0
@@ -9946,6 +10016,7 @@
 99C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\util\isAbstractRole-test.js133393668349896511 0
 77C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\util\Components.js133393668108411675 0
 74C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\util\docsUrl.js133393668152178929 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\fe\352793ceb97e80ea14b91a4851694a74b82c1a133414137643001400 0
 82C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\dpub\docExampleRole.js133393668296429426 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\CompletionRecord.js133393668486403664 0
 82C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\util\isCreateContext.js133393668226046051 0
@@ -9980,6 +10051,7 @@
 82C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__mocks__\LiteralMock.js133393668384326968 0
 93C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-child-element-spacing.js133393668243240723 0
 96C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-closing-bracket-location.js133393668249077808 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\06133414137610304019 1
 92C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-curly-brace-presence.js133393668254020483 0
 85C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-curly-spacing.js133393668258164884 0
 81C:\Users\jjj\repos\JD\node_modules\eslint-plugin-react\lib\rules\jsx-fragments.js133393668280974908 0
@@ -10102,6 +10174,7 @@
 75C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\lib\tokenizer133393668501753290 1
 96C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\aria-props-test.js133393668170553122 0
 100C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\aria-proptypes-test.js133393668185157909 0
+104C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\HEAD133414137658161910 0
 79C:\Users\jjj\repos\JD\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133393668102499683 0
 95C:\Users\jjj\repos\JD\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\aria-role-test.js133393668210273864 0
 103C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\to-comparators.js133393668283319918 0
@@ -10513,6 +10586,7 @@
 91C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\unicode\is-combining-character.js133393668393206407 0
 86C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\unicode\is-emoji-modifier.js133393668394945820 0
 97C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\unicode\is-regional-indicator-symbol.js133393668400304253 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\ae133414137612814087 1
 77C:\Users\jjj\repos\JD\node_modules\eslint\lib\rules\utils\patterns\letters.js133393668405654804 0
 62C:\Users\jjj\repos\JD\node_modules\@humanwhocodes\config-array133393668001311871 1
 77C:\Users\jjj\repos\JD\node_modules\eslint\lib\rule-tester\flat-rule-tester.js133393668349622722 0
@@ -10657,6 +10731,7 @@
 90C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133393668337380738 1
 89C:\Users\jjj\repos\JD\node_modules\es-iterator-helpers\Iterator.prototype.forEach\shim.js133393668359007530 0
 93C:\Users\jjj\repos\JD\node_modules\es-iterator-helpers\Iterator.prototype.flatMap\polyfill.js133393668343277675 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\97\adbc33ee515f94c0357d83137502314f8269d9133414137643171369 0
 64C:\Users\jjj\repos\JD\node_modules\@babel\highlight\package.json133393668004911968 0
 74C:\Users\jjj\repos\JD\node_modules\es-abstract\2020\OrdinaryToPrimitive.js133393668663126119 0
 89C:\Users\jjj\repos\JD\node_modules\es-iterator-helpers\Iterator.prototype.flatMap\shim.js133393668355324594 0
@@ -10794,7 +10869,7 @@
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\CanBeHeldWeakly.js133393668454096145 0
 89C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-const.cjs133393668283624091 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\Canonicalize.js133393668459664947 0
-49C:\Users\jjj\repos\JD\dist\index.1303bb05.css.map133393669834389621 0
+49C:\Users\jjj\repos\JD\dist\index.1303bb05.css.map133414168368571388 0
 78C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\esm\asyncIterator.js133393668330919027 0
 82C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\CanonicalNumericIndexString.js133393668468581394 0
 74C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\applyDecs2301.js133393668111786496 0
@@ -10822,6 +10897,7 @@
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\DetachArrayBuffer.js133393668539900955 0
 78C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\EnumerableOwnProperties.js133393668542243858 0
 60C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\floor.js133393668552908341 0
+124C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\remotes\origin\HEAD133393680374484504 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\GetGlobalObject.js133393668565141331 0
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2023\GetMatchIndexPair.js133393668566579570 0
 109C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Number.js133393668365275268 0
@@ -10975,6 +11051,7 @@
 72C:\Users\jjj\repos\JD\node_modules\@parcel\core\src\SymbolPropagation.js133393668443733782 0
 76C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\DefinePropertyOrThrow.js133393668539073282 0
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2021\UnicodeEscape.js133393668694007731 0
+157C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\pack\pack-8097fa4a9aad36f932893789ca3281bdab0feff8.idx133393680372586026 0
 76C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\DeletePropertyOrThrow.js133393668539430667 0
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\DetachArrayBuffer.js133393668539850942 0
 81C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\EnumerableOwnPropertyNames.js133393668542633957 0
@@ -11002,9 +11079,10 @@
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsLessThan.js133393668623337094 0
 76C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsNoTearConfiguration.js133393668623577466 0
 64C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsPromise.js133393668624419097 0
+110C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\youtube.225f4e4b.svg133414137642001402 0
 74C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsSharedArrayBuffer.js133393668625902713 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IteratorStep.js133393668632529058 0
-44C:\Users\jjj\repos\JD\dist\wave.e02727b0.jpg133393669834359635 0
+44C:\Users\jjj\repos\JD\dist\wave.e02727b0.jpg133414160804732154 0
 84C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsUnclampedIntegerElementType.js133393668626404962 0
 76C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\IsUnsignedElementType.js133393668626596447 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\Number\lessThan.js133393668634851316 0
@@ -11022,6 +11100,7 @@
 54C:\Users\jjj\repos\JD\node_modules\@types\node\LICENSE133393667933386709 0
 80C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\OrdinaryDefineOwnProperty.js133393668660959724 0
 77C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\OrdinaryGetPrototypeOf.js133393668661499739 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e3133393680394943761 1
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\ArraySpeciesCreate.js133393668353527877 0
 74C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\OrdinaryHasProperty.js133393668662034932 0
 61C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_using.js133393668454734645 0
@@ -11031,6 +11110,7 @@
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\RegExpExec.js133393668665533953 0
 66C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\SecFromTime.js133393668671614498 0
 74C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\SameValueNonNumeric.js133393668666077487 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\35133414137562764958 1
 100C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Declaration.js133393668232983410 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\SetFunctionName.js133393668680179076 0
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\SetIntegrityLevel.js133393668680349070 0
@@ -11046,6 +11126,7 @@
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\TestIntegrityLevel.js133393668685347193 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\thisBigIntValue.js133393668685377191 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\thisBooleanValue.js133393668685477196 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\heads133414137658211895 1
 94C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\package.json133393668293748186 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2022\TimeString.js133393668690351574 0
 65C:\Users\jjj\repos\JD\node_modules\detect-libc\lib\detect-libc.js133393668049890408 0
@@ -11411,6 +11492,7 @@
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\CreateHTML.js133393668503416313 0
 75C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\CreateMethodProperty.js133393668512905457 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\DateFromTime.js133393668515248439 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\01\4d28739fad6a65645462bd95b9c527bd302a89133414137643041406 0
 81C:\Users\jjj\repos\JD\node_modules\axobject-query\lib\etc\objects\DocumentRole.js133393668254220541 0
 58C:\Users\jjj\repos\JD\node_modules\es-abstract\2019\Day.js133393668523843011 0
 92C:\Users\jjj\repos\JD\node_modules\axobject-query\lib\etc\objects\DescriptionListTermRole.js133393668240561962 0
@@ -11565,6 +11647,7 @@
 76C:\Users\jjj\repos\JD\node_modules\aria-query\lib\util\iterationDecorator.js133393668350214410 0
 69C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\HasOwnProperty.js133393668582571985 0
 66C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\HasProperty.js133393668582739532 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c2133414137560134861 1
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2018\HourFromTime.js133393668583074081 0
 66C:\Users\jjj\repos\JD\node_modules\@parcel\runtime-js\package.json133393668282688979 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2017\DateFromTime.js133393668515000594 0
@@ -11801,6 +11884,7 @@
 99C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\neq.js133393668228341913 0
 64C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\GetMethod.js133393668566938592 0
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\GetOwnPropertyKeys.js133393668571581876 0
+111C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\envelope.218572ce.svg133414137641881400 0
 91C:\Users\jjj\repos\JD\node_modules\@babel\code-frame\node_modules\color-name\.eslintrc.json133393668051325177 0
 53C:\Users\jjj\repos\JD\node_modules\array-uniq\license133393667971997470 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\GetSubstitution.js133393668577568421 0
@@ -11860,7 +11944,7 @@
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\SpeciesConstructor.js133393668681129069 0
 68C:\Users\jjj\repos\JD\node_modules\@parcel\packager-raw\package.json133393668002859735 0
 65C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\SplitMatch.js133393668682859409 0
-48C:\Users\jjj\repos\JD\dist\envelope.901df329.svg133393669834179629 0
+48C:\Users\jjj\repos\JD\dist\envelope.901df329.svg133414160804360541 0
 78C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\SymbolDescriptiveString.js133393668684788789 0
 103C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.min.js133393668274609946 0
 71C:\Users\jjj\repos\JD\node_modules\es-abstract\2016\thisBooleanValue.js133393668685427194 0
@@ -11895,6 +11979,7 @@
 78C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-js\lib\JSTransformer.js133393668007561908 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\Canonicalize.js133393668454176142 0
 82C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\CanonicalNumericIndexString.js133393668462094696 0
+44C:\Users\jjj\repos\JD\dist\index.4e09bb27.js133414137490342870 0
 69C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\CharacterRange.js133393668468771389 0
 81C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\CompletePropertyDescriptor.js133393668485743535 0
 63C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_ts_generator133393668525072657 1
@@ -11917,11 +12002,13 @@
 68C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\DayWithinYear.js133393668529821599 0
 63C:\Users\jjj\repos\JD\node_modules\@types\node\ts4.8\https.d.ts133393668383833781 0
 72C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\DetachArrayBuffer.js133393668539430667 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c4\81578ac596557168e7c83a7d7f09c8ac696d8c133414137643021399 0
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\EnumerableOwnNames.js133393668541268151 0
 60C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\floor.js133393668552073634 0
 77C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\FromPropertyDescriptor.js133393668553400712 0
 58C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\Get.js133393668555099501 0
 70C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\GetGlobalObject.js133393668558262856 0
+102C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects133414137658931876 1
 64C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\GetMethod.js133393668566795581 0
 82C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\GetPrototypeFromConstructor.js133393668577322038 0
 105C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\types.schema.json133393668223425494 0
@@ -11929,6 +12016,7 @@
 69C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\HasOwnProperty.js133393668582532815 0
 91C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\.bin\semver.cmd133393668701244003 0
 67C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\HourFromTime.js133393668583038940 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\54133393680389110915 1
 73C:\Users\jjj\repos\JD\node_modules\es-abstract\2015\InstanceofOperator.js133393668589740004 0
 62C:\Users\jjj\repos\JD\node_modules\@swc\helpers\cjs\_throw.cjs133393668339107867 0
 59C:\Users\jjj\repos\JD\node_modules\axe-core\locales\ko.json133393668283793516 0
@@ -12019,6 +12107,7 @@
 64C:\Users\jjj\repos\JD\node_modules\entities\lib\encode-trie.d.ts133393668218815184 0
 59C:\Users\jjj\repos\JD\node_modules\entities\lib\encode.d.ts133393668221905213 0
 57C:\Users\jjj\repos\JD\node_modules\entities\lib\generated133393668210403857 1
+89C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git133414137641881400 1
 81C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\literal\strongRole.js133393668394825839 0
 58C:\Users\jjj\repos\JD\node_modules\entities\lib\index.d.ts133393668225296147 0
 62C:\Users\jjj\repos\JD\node_modules\entities\lib\index.d.ts.map133393668173250203 0
@@ -12213,6 +12302,7 @@
 59C:\Users\jjj\repos\JD\node_modules\doctrine\lib\doctrine.js133393668072746512 0
 62C:\Users\jjj\repos\JD\node_modules\axe-core\locales\pt_BR.json133393668316267284 0
 58C:\Users\jjj\repos\JD\node_modules\doctrine\lib\utility.js133393668110057591 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0f133414137605935731 1
 76C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-image\lib\loadNative.js133393667987693540 0
 72C:\Users\jjj\repos\JD\node_modules\axobject-query\lib\AXObjectRoleMap.js133393668115864042 0
 50C:\Users\jjj\repos\JD\node_modules\detect-libc\lib133393668024735191 1
@@ -12466,6 +12556,7 @@
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\CY.js133393668503576208 0
 91C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Dimension.cjs133393668256782816 0
 96C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133393668316567287 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\59\ff74cbc72b20f3cbea9176b07eef49204ad4c3133414137643271398 0
 102C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse-selector.cjs133393668317531579 0
 79C:\Users\jjj\repos\JD\node_modules\@swc\helpers\esm\_class_private_field_set.js133393668383468600 0
 85C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Nth.cjs133393668343112499 0
@@ -12501,6 +12592,7 @@
 68C:\Users\jjj\repos\JD\node_modules\@parcel\watcher-win32-x64\LICENSE133393667941057782 0
 69C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\heif.js133393668544567954 0
 85C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\lexer\structure.cjs133393668373741773 0
+99C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\info133393680356415743 1
 81C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133393668381038974 0
 86C:\Users\jjj\repos\JD\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133393668209533866 0
 90C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133393668503416313 0
@@ -12611,6 +12703,7 @@
 65C:\Users\jjj\repos\JD\node_modules\css-tree\lib\definition-syntax133393668503823807 1
 106C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\utils.js133393668393176411 0
 57C:\Users\jjj\repos\JD\node_modules\css-tree\lib\generator133393668501920313 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9e133393680400030575 1
 53C:\Users\jjj\repos\JD\node_modules\css-tree\lib\lexer133393668503026138 1
 54C:\Users\jjj\repos\JD\node_modules\css-tree\lib\parser133393668501843291 1
 54C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax133393668483275342 1
@@ -12654,6 +12747,7 @@
 73C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\IdSelector.js133393668468681370 0
 77C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\index-generate.js133393668471249737 0
 68C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\index.js133393668483085567 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\b5\a2378e79c2529e8f54df5accf98bc08fa3ee86133414137643181367 0
 75C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\MediaFeature.js133393668485743535 0
 70C:\Users\jjj\repos\JD\node_modules\css-tree\cjs\syntax\scope\index.cjs133393668336468393 0
 73C:\Users\jjj\repos\JD\node_modules\css-tree\lib\syntax\node\MediaQuery.js133393668485743535 0
@@ -12697,6 +12791,7 @@
 83C:\Users\jjj\repos\JD\node_modules\axobject-query\lib\etc\objects\MenuButtonRole.js133393668336173477 0
 66C:\Users\jjj\repos\JD\node_modules\css-tree\lib\convertor\index.js133393668472259503 0
 59C:\Users\jjj\repos\JD\node_modules\css-tree\dist\csstree.js133393668453398709 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\ca133393680397749608 1
 56C:\Users\jjj\repos\JD\node_modules\css-tree\dist\data.js133393668454016149 0
 69C:\Users\jjj\repos\JD\node_modules\@humanwhocodes\module-importer\src133393668025045935 1
 60C:\Users\jjj\repos\JD\node_modules\css-tree\dist\version.cjs133393668400624216 0
@@ -12918,6 +13013,7 @@
 55C:\Users\jjj\repos\JD\node_modules\clean-css\lib\writer133393668370084733 1
 78C:\Users\jjj\repos\JD\node_modules\@parcel\workers\test\integration\workerfarm133393668241022923 1
 67C:\Users\jjj\repos\JD\node_modules\clean-css\lib\writer\one-time.js133393668329789465 0
+118C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-rebase.sample133393680356385739 0
 69C:\Users\jjj\repos\JD\node_modules\clean-css\lib\utils\clone-array.js133393668124571355 0
 78C:\Users\jjj\repos\JD\node_modules\clean-css\lib\utils\is-data-uri-resource.js133393668282997465 0
 74C:\Users\jjj\repos\JD\node_modules\clean-css\lib\utils\is-http-resource.js133393668283339917 0
@@ -13063,6 +13159,7 @@
 67C:\Users\jjj\repos\JD\node_modules\aria-query\lib\etc\roles\literal133393668411716802 1
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\BR.js133393668339366491 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\BS.js133393668343617687 0
+110C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\heads133393680403702808 1
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\BT.js133393668348330184 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\CD.js133393668353287866 0
 66C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\regions\CF.js133393668353517881 0
@@ -13285,6 +13382,7 @@
 79C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-gencontent.js133393668454196136 0
 78C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-gradients.js133393668454230504 0
 83C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-grid-animation.js133393668454230504 0
+44C:\Users\jjj\repos\JD\dist\index.07d075f8.js133414137490585689 0
 88C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133393668454401490 0
 86C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-image-orientation.js133393668459055861 0
 78C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\css-image-set.js133393668459674932 0
@@ -13418,6 +13516,7 @@
 84C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\input-email-tel-url.js133393668553567577 0
 85C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\input-file-directory.js133393668554599325 0
 84C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\input-file-multiple.js133393668555061068 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\32\0fb13c1ce3a11f5cc59a458ae7adb8803ecd72133414137643151396 0
 80C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\input-inputmode.js133393668555099501 0
 77C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\input-number.js133393668555444244 0
 52C:\Users\jjj\repos\JD\node_modules\@parcel\core\test133393668454580695 1
@@ -13523,6 +13622,7 @@
 79C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\scrollintoview.js133393668623401978 0
 78C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\selection-api.js133393668623577466 0
 76C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\shadowdomv1.js133393668624599863 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\32\50272d51d0c470a43752cec45d41ceff33581d133414137607235835 0
 82C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133393668624769907 0
 69C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\spdy.js133393668625405239 0
 83C:\Users\jjj\repos\JD\node_modules\caniuse-lite\data\features\speech-recognition.js133393668625557353 0
@@ -13597,6 +13697,7 @@
 59C:\Users\jjj\repos\JD\node_modules\camel-case\dist\index.js133393667978226827 0
 64C:\Users\jjj\repos\JD\node_modules\camel-case\dist\index.spec.js133393668005701888 0
 55C:\Users\jjj\repos\JD\node_modules\callsites\index.d.ts133393667951381235 0
+94C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git133414137658221928 1
 53C:\Users\jjj\repos\JD\node_modules\callsites\index.js133393667971247864 0
 54C:\Users\jjj\repos\JD\node_modules\call-bind\.eslintrc133393667958408231 0
 52C:\Users\jjj\repos\JD\node_modules\call-bind\.github133393668117048928 1
@@ -14050,6 +14151,7 @@
 67C:\Users\jjj\repos\JD\node_modules\@nodelib\fs.scandir\out\index.js133393668076228563 0
 80C:\Users\jjj\repos\JD\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node133393668109505614 0
 60C:\Users\jjj\repos\JD\node_modules\ajv\scripts\.eslintrc.yml133393668368559377 0
+100C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.html133414137641981414 0
 56C:\Users\jjj\repos\JD\node_modules\ajv\scripts\bundle.js133393668228691936 0
 78C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-babel\node_modules\.bin133393668701147584 1
 62C:\Users\jjj\repos\JD\node_modules\ajv\scripts\compile-dots.js133393668242600721 0
@@ -14103,6 +14205,7 @@
 59C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\async.js133393668227951928 0
 59C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\equal.js133393668273619973 0
 59C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\index.js133393668283179913 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\27133393680393681659 1
 109C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-posthtml\node_modules\semver\internal\parse-options.js133393668240551966 0
 61C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\resolve.js133393668321775564 0
 64C:\Users\jjj\repos\JD\node_modules\ajv\lib\compile\ucs2length.js133393668322808888 0
@@ -14370,6 +14473,7 @@
 71C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\dist\node.js.flow133393667942003261 0
 66C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_sliced_to_array133393668515457555 1
 72C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_sliced_to_array_loose133393668515248439 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\0b133414137561664882 1
 66C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_super_prop_base133393668515605649 1
 80C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_tagged_template_literal_loose133393668516246504 1
 56C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_throw133393668516923519 1
@@ -14431,6 +14535,7 @@
 98C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_class_apply_descriptor_destructure\package.json133393668485267020 0
 91C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133393668484899760 0
 75C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_await_value\package.json133393668484468274 0
+118C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-commit.sample133393680356375746 0
 82C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_async_to_generator\package.json133393668477392810 0
 74C:\Users\jjj\repos\JD\node_modules\@nodelib\fs.walk\out\readers\async.d.ts133393668164118334 0
 79C:\Users\jjj\repos\JD\node_modules\@swc\helpers\_\_async_generator\package.json133393668473386603 0
@@ -14466,6 +14571,7 @@
 83C:\Users\jjj\repos\JD\node_modules\@parcel\package-manager\node_modules\.bin\semver133393668701244003 0
 66C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_construct.mjs133393668539830939 0
 69C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_create_class.mjs133393668539880941 0
+104C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\tags133393680356415743 1
 92C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133393668539940944 0
 65C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_decorate.mjs133393668539980937 0
 85C:\Users\jjj\repos\JD\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133393668540020939 0
@@ -14639,6 +14745,7 @@
 100C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\definitions.json133393668116174179 0
 48C:\Users\jjj\repos\JD\node_modules\@parcel\cache133393668151151509 1
 53C:\Users\jjj\repos\JD\node_modules\@parcel\diagnostic133393668054286355 1
+44C:\Users\jjj\repos\JD\dist\wave.7a703055.jpg133414137317368277 0
 48C:\Users\jjj\repos\JD\node_modules\@parcel\utils133393668350168293 1
 49C:\Users\jjj\repos\JD\node_modules\@parcel\events133393668150653659 1
 52C:\Users\jjj\repos\JD\node_modules\@parcel\fs-search133393668317267270 1
@@ -14677,6 +14784,7 @@
 51C:\Users\jjj\repos\JD\node_modules\@nodelib\fs.stat133393668109902351 1
 98C:\Users\jjj\repos\JD\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133393668241563980 0
 61C:\Users\jjj\repos\JD\node_modules\@parcel\workers\src\bus.js133393668005621906 0
+113C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\down-arrow.8b6aeb0f.svg133414137641881400 0
 67C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\dist\types.js133393668153298868 0
 63C:\Users\jjj\repos\JD\node_modules\@parcel\workers\src\child.js133393668057270567 0
 65C:\Users\jjj\repos\JD\node_modules\@parcel\cache\lib\LMDBCache.js133393668109902351 0
@@ -14791,7 +14899,7 @@
 100C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133393668072434100 0
 71C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-raw\package.json133393667995972776 0
 62C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-raw\src133393667976365238 1
-48C:\Users\jjj\repos\JD\dist\linkedin.8fb3fb77.svg133393669834749616 0
+48C:\Users\jjj\repos\JD\dist\linkedin.8fb3fb77.svg133414160804360541 0
 80C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-raw\src\RawTransformer.js133393667978473719 0
 76C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-posthtml\package.json133393668049890408 0
 90C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133393668006061905 0
@@ -14870,6 +14978,7 @@
 99C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\lte.js133393668203895892 0
 101C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\minor.js133393668225995457 0
 101C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\parse.js133393668242290705 0
+50C:\Users\jjj\repos\JD\dist\down-arrow.8b6aeb0f.svg133414137293880992 0
 101C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\patch.js133393668243240723 0
 106C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\prerelease.js133393668251214267 0
 101C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\valid.js133393668285191289 0
@@ -14957,6 +15066,7 @@
 96C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\index.js133393667964946694 0
 97C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-html\node_modules\semver\functions\diff.js133393668119456772 0
 95C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-html\node_modules\semver\functions\eq.js133393668124066148 0
+104C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs133393680374524510 1
 96C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-html\node_modules\semver\functions\inc.js133393668164858321 0
 95C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-html\node_modules\semver\functions\lt.js133393668184897900 0
 96C:\Users\jjj\repos\JD\node_modules\@parcel\transformer-html\node_modules\semver\functions\lte.js133393668191503435 0
@@ -15023,6 +15133,7 @@
 85C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133393668370294721 1
 84C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web133393668374301770 1
 98C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133393668185478097 0
+111C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.07d075f8.js.map133414137642041393 0
 110C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133393668118733426 0
 95C:\Users\jjj\repos\JD\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133393668110466088 0
 115C:\Users\jjj\repos\JD\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133393668373791782 0
@@ -15481,6 +15592,7 @@
 88C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges133393668288122347 1
 91C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\README.md133393668296481239 0
 106C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\max-satisfying.js133393668215999837 0
+104C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\ORIG_HEAD133414137639481439 0
 98C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\subset.js133393668283309939 0
 97C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\ranges\valid.js133393668288232353 0
 105C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\node_modules\semver\internal\identifiers.js133393668163818343 0
@@ -15504,6 +15616,7 @@
 74C:\Users\jjj\repos\JD\node_modules\@parcel\node-resolver-core\lib\index.js133393667989367920 0
 64C:\Users\jjj\repos\JD\node_modules\@parcel\namer-default\LICENSE133393667943547580 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\namer-default\package.json133393668002809815 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\ae\59133e65c99ad68a16286c44701f8ae3f8fb96133414137611454020 0
 64C:\Users\jjj\repos\JD\node_modules\@parcel\markdown-ansi\LICENSE133393667938558949 0
 60C:\Users\jjj\repos\JD\node_modules\@parcel\markdown-ansi\src133393667975555266 1
 61C:\Users\jjj\repos\JD\node_modules\@parcel\markdown-ansi\test133393667995412802 1
@@ -15524,6 +15637,7 @@
 96C:\Users\jjj\repos\JD\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133393667978016820 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\graph\src\AdjacencyList.js133393668052354798 0
 61C:\Users\jjj\repos\JD\node_modules\@parcel\graph\src\index.js133393668153078856 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\32\cfa8b73f616aaced718f1cc1ea2805954edad1133414137567714862 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\graph\lib\AdjacencyList.js133393668003459721 0
 61C:\Users\jjj\repos\JD\node_modules\@parcel\graph\lib\Graph.js133393668120396554 0
 78C:\Users\jjj\repos\JD\node_modules\@parcel\fs-search\fs-search.darwin-x64.node133393668162724524 0
@@ -15583,6 +15697,7 @@
 96C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src133393668343267676 1
 105C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133393668343337677 0
 98C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133393668484899760 0
+122C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-applypatch.sample133393680356375746 0
 98C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js133393668342700965 0
 97C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json133393668484279560 0
 91C:\Users\jjj\repos\JD\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json133393668478150170 0
@@ -15682,6 +15797,7 @@
 77C:\Users\jjj\repos\JD\node_modules\@parcel\config-default\test\config.test.js133393667987713531 0
 60C:\Users\jjj\repos\JD\node_modules\@parcel\codeframe\LICENSE133393667938578941 0
 71C:\Users\jjj\repos\JD\node_modules\@parcel\codeframe\test\fixtures\a.js133393667965389961 0
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\remotes\origin\main133414137617312052 0
 73C:\Users\jjj\repos\JD\node_modules\@babel\runtime\helpers\esm\inherits.js133393668372446611 0
 69C:\Users\jjj\repos\JD\node_modules\@parcel\codeframe\lib\codeframe.js133393668223858988 0
 52C:\Users\jjj\repos\JD\node_modules\@parcel\cache\lib133393668152118929 1
@@ -15791,6 +15907,7 @@
 51C:\Users\jjj\repos\JD\node_modules\@eslint\eslintrc133393668258424790 1
 45C:\Users\jjj\repos\JD\node_modules\@eslint\js133393668054276299 1
 58C:\Users\jjj\repos\JD\node_modules\@eslint\js\package.json133393668049890408 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\92133393680399565985 1
 49C:\Users\jjj\repos\JD\node_modules\@eslint\js\src133393668005281899 1
 58C:\Users\jjj\repos\JD\node_modules\@eslint\js\src\index.js133393668007611892 0
 79C:\Users\jjj\repos\JD\node_modules\@eslint\js\src\configs\eslint-recommended.js133393667989165317 0
@@ -15948,6 +16065,62 @@
 86C:\Users\jjj\repos\JD\node_modules\@babel\code-frame\node_modules\ansi-styles\index.js133393667958926935 0
 85C:\Users\jjj\repos\JD\node_modules\@babel\code-frame\node_modules\ansi-styles\license133393667973217599 0
 90C:\Users\jjj\repos\JD\node_modules\@babel\code-frame\node_modules\ansi-styles\package.json133393667941217963 0
+115C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\design-desk.4e655d74.jpeg133414137642031403 0
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.4e09bb27.js133414137641981414 0
+108C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.61699b45.css133414137641981414 0
+112C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\index.61699b45.css.map133414137641981414 0
+112C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\instagram.834d60d8.svg133414137642011399 0
+120C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\motion-background.6277a59a.jpg133414137642021415 0
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\wave.7a703055.jpg133414137642031403 0
+109C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\COMMIT_EDITMSG133414137655491960 0
+101C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\config133414137644541377 0
+106C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\description133393680356345744 0
+99C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\HEAD133414137636151400 0
+99C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs133393680374514508 1
+106C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\packed-refs133393680374442231 0
+99C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs133393680374452236 1
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\remotes133393680374462240 1
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\remotes\origin\HEAD133393680374484504 0
+114C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\heads\gh-pages133414137657971953 0
+110C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\refs\heads\main133393680374514508 0
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\48133393680403612836 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\70133393680388150846 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\73133414137611404032 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\8b133414137568864906 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\97133393680396623194 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9c133414137576417690 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\a0133393680392293703 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c4133414137564484955 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e1133393680389530833 1
+105C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\fe133393680388690836 1
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\info133393680356495737 1
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\pack133393680374564515 1
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\f1\ebd359010d694fc8f92eab1e55c6c5f3a36550133414137571543671 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e8\4d79bf5384cf4969ac353dcd91fa3597c53bd5133414137643271398 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e3\660fb962389f18aa7ebf53f1822e2e8ec6b38a133414137643161387 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\e1\1d34926f13ed9dcd2fc12b51cf8f649565f9be133414137643021399 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\ca\aba613eb6f6e3e268d33ca4a217c158b9026e8133414137643171369 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\c5\77a1e08d5f7828f9606bece3d759a382b452a3133414137643181367 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\ae\3b9dc3f899ad32463ad340f752a72cacbe535d133414137564634894 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\a8\7ea41f63ad05e6d3fb34061fe520cc6bf31759133414137569643652 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\9e\5db1c737ff114ec47d2c0aadb3362d5664b706133414137643201364 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\7d\c1b03b3e6dca24d0013c753c9894db5f095a02133414137565654922 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\6e\fba99abe50c64e7504962634d7fbf5a9eab967133414137652461496 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\54\8e14b132d4b64b6e0e964ffd3be60182723126133414137643011387 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\37\0da12aea9f209336c7964195341cd7693416f0133414137572303641 0
+50C:\Users\jjj\repos\JD\node_modules\.bin\parcel.cmd133393668701244003 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\36\72daad5a3ce61af2bbc658de62ff1f2ffd9b7f133414137643161387 0
+144C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\objects\06\8d3003326ae1dccfe6b81d672935e5c3ebea2e133414137609514049 0
+128C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\remotes\origin\gh-pages133414137769616137 0
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\heads\gh-pages133414137658171923 0
+115C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\logs\refs\heads\main133393680374524510 0
+107C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\info\exclude133393680356415743 0
+122C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\applypatch-msg.sample133393680356355746 0
+50C:\Users\jjj\repos\JD\images\motion-background.jpg133392832499947455 0
+118C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\commit-msg.sample133393680356355746 0
+119C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\post-update.sample133393680356365728 0
+124C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\pre-merge-commit.sample133393680356375746 0
+126C:\Users\jjj\repos\JD\node_modules\.cache\gh-pages\https!github.com!Juliodonadello!JD.git\.git\hooks\prepare-commit-msg.sample133393680356395729 0
 49C:\Users\jjj\repos\JD\node_modules\.bin\acorn.cmd133393668701244003 0
 49C:\Users\jjj\repos\JD\node_modules\.bin\acorn.ps1133393668701244003 0
 56C:\Users\jjj\repos\JD\node_modules\.bin\browserslist.ps1133393668701244003 0
@@ -15967,7 +16140,6 @@
 50C:\Users\jjj\repos\JD\node_modules\.bin\node-which133393668701244003 0
 54C:\Users\jjj\repos\JD\node_modules\.bin\node-which.ps1133393668701427066 0
 46C:\Users\jjj\repos\JD\node_modules\.bin\parcel133393668701244003 0
-50C:\Users\jjj\repos\JD\node_modules\.bin\parcel.cmd133393668701244003 0
 52C:\Users\jjj\repos\JD\node_modules\.bin\prettier.cmd133393668701244003 0
 47C:\Users\jjj\repos\JD\node_modules\.bin\resolve133393668701244003 0
 51C:\Users\jjj\repos\JD\node_modules\.bin\resolve.cmd133393668701244003 0
@@ -15976,19 +16148,25 @@
 46C:\Users\jjj\repos\JD\node_modules\.bin\terser133393668701244003 0
 62C:\Users\jjj\repos\JD\node_modules\.bin\update-browserslist-db133393668701244003 0
 47C:\Users\jjj\repos\JD\node_modules\.bin\webpack133393668701244003 0
+52C:\Users\jjj\repos\JD\dist\design-desk.4e655d74.jpeg133414137490332881 0
 51C:\Users\jjj\repos\JD\node_modules\.bin\webpack.ps1133393668701244003 0
 45C:\Users\jjj\repos\JD\images\design-desk.jpeg133392832499927462 0
-50C:\Users\jjj\repos\JD\images\motion-background.jpg133392832499947455 0
 36C:\Users\jjj\repos\JD\images\socials133392872832110987 1
 37C:\Users\jjj\repos\JD\images\wave.jpg133392824392025235 0
 49C:\Users\jjj\repos\JD\images\socials\devdotto.svg133392832499957470 0
 49C:\Users\jjj\repos\JD\images\socials\linkedin.svg133392832499967467 0
 50C:\Users\jjj\repos\JD\images\socials\microsoft.svg133392832499987486 0
 48C:\Users\jjj\repos\JD\images\socials\twitter.svg133392832499997477 0
-52C:\Users\jjj\repos\JD\dist\design-desk.c8e8cf04.jpeg133393669835389644 0
-50C:\Users\jjj\repos\JD\dist\down-arrow.b8ab33ca.svg133393669834749616 0
-44C:\Users\jjj\repos\JD\dist\index.3d214d75.js133393669835929673 0
-48C:\Users\jjj\repos\JD\dist\index.3d214d75.js.map133393669836279620 0
-37C:\Users\jjj\repos\JD\dist\index.html133393669834759622 0
-47C:\Users\jjj\repos\JD\dist\youtube.17cf9f7e.svg133393669834239626 0
+52C:\Users\jjj\repos\JD\dist\design-desk.c8e8cf04.jpeg133414160804732154 0
+50C:\Users\jjj\repos\JD\dist\down-arrow.b8ab33ca.svg133414160804360541 0
+48C:\Users\jjj\repos\JD\dist\envelope.218572ce.svg133414137293830986 0
+46C:\Users\jjj\repos\JD\dist\github.a2abf599.svg133414137293830986 0
+48C:\Users\jjj\repos\JD\dist\index.07d075f8.js.map133414137492167640 0
+44C:\Users\jjj\repos\JD\dist\index.3d214d75.js133414160807177789 0
+48C:\Users\jjj\repos\JD\dist\index.3d214d75.js.map133414160807266273 0
+48C:\Users\jjj\repos\JD\dist\index.4e09bb27.js.map133414137491971945 0
+45C:\Users\jjj\repos\JD\dist\index.61699b45.css133414137490342870 0
+49C:\Users\jjj\repos\JD\dist\index.61699b45.css.map133414137491252818 0
+37C:\Users\jjj\repos\JD\dist\index.html133414168366817929 0
+47C:\Users\jjj\repos\JD\dist\youtube.17cf9f7e.svg133414160804360541 0
 43C:\Users\jjj\repos\JD\Components\Header.jsx133392832499877485 0
