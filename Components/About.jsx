@@ -31,12 +31,34 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "MLOps",
-  "Data Analysis",
-  "Machile Learning",
-  "Data Modeling",
-  "Dashboarding",
-  "IoT Integrations",
+  {
+    label: "MLOps",
+    url: "https://docs.google.com/document/d/1FX3pWVi-sGpNQ7nlY_uAGetwj2KwDY3_nmOMxZgerHY/edit?usp=sharing",
+  },
+  {
+    label: "Data Analysis",
+    url: "https://deepnote.com/workspace/julio-b8e1-f3f3a815-0155-49ae-8b20-56ea09c967ed/project/Mareas-489a9fca-268e-4600-816f-adda708f4f03",
+  },
+  {
+    label: "Machine Learning",
+    url: "https://github.com/Juliodonadello/MELI_Challenge/blob/main/Entrenamiento.ipynb",
+  },
+  {
+    label: "Data Modeling",
+    url: "https://docs.google.com/document/d/1fpbiRfte934QiM2UXSgTBQ7t2OaoYVAxK7947vHDnng/edit?usp=sharing",
+  },
+  {
+    label: "Dashboarding",
+    url: "https://docs.google.com/document/d/1d0DzSozSKbm9a0ns0kqap7atAxmqRAPALn9RL6Sc0jc/edit?usp=sharing",
+  },
+  {
+    label: "Deep Learning",
+    url: "https://www.youtube.com/watch?v=qnukHtr1Bs4&t=103s",
+  },
+  {
+    label: "IoT",
+    url: "https://github.com/Juliodonadello/horus2",
+  },
 ];
 
 /**
@@ -73,7 +95,11 @@ const About = () => {
           }}
         >
           {skillsList.map((skill) => (
-            <li key={skill}>{skill}</li>
+            <li key={skill.label}>
+              <a href={skill.url} target="_blank" rel="noopener noreferrer">
+                {skill.label}
+              </a>
+            </li>
           ))}
         </ul>
         <hr />
